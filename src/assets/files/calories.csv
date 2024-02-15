@@ -1,0 +1,2226 @@
+category,name,unit,calories
+CannedFruit,Applesauce,100g,62 cal
+CannedFruit,Canned Apricots,100g,48 cal
+CannedFruit,Canned Blackberries,100g,92 cal
+CannedFruit,Canned Blueberries,100g,88 cal
+CannedFruit,Canned Cherries,100g,54 cal
+CannedFruit,Canned Cranberries,100g,178 cal
+CannedFruit,Canned Crushed Pineapple,100g,53 cal
+CannedFruit,Canned Figs,100g,107 cal
+CannedFruit,Canned Fruit Cocktail,100g,81 cal
+CannedFruit,Canned Fruit Salad,100g,50 cal
+CannedFruit,Canned Gooseberries,100g,73 cal
+CannedFruit,Canned Grapefruit,100g,37 cal
+CannedFruit,Canned Grapes,100g,76 cal
+CannedFruit,Canned Mandarin Oranges,100g,71 cal
+CannedFruit,Canned Mango,100g,65 cal
+CannedFruit,Canned Mangosteen,100g,73 cal
+CannedFruit,Canned Mixed Fruit,100g,71 cal
+CannedFruit,Canned Morello Cherries,100g,81 cal
+CannedFruit,Canned Oranges,100g,62 cal
+CannedFruit,Canned Peaches,100g,54 cal
+CannedFruit,Canned Pears,100g,35 cal
+CannedFruit,Canned Pineapple,100g,60 cal
+CannedFruit,Canned Plums,100g,58 cal
+CannedFruit,Canned Raspberries,100g,91 cal
+CannedFruit,Canned Sliced Pineapple,100g,53 cal
+CannedFruit,Canned Sour Cherries,100g,114 cal
+CannedFruit,Canned Strawberries,100g,92 cal
+CannedFruit,Canned Tangerines,100g,61 cal
+CannedFruit,Dried Fruit,100g,243 cal
+Fruits,Acai,100g,70 cal
+Fruits,Apple,100g,52 cal
+Fruits,Applesauce,100g,68 cal
+Fruits,Apricot,100g,48 cal
+Fruits,Avocado,100g,160 cal
+Fruits,Banana,100g,89 cal
+Fruits,Blackberries,100g,43 cal
+Fruits,Blood Oranges,100g,50 cal
+Fruits,Blueberries,100g,57 cal
+Fruits,Cantaloupe,100g,34 cal
+Fruits,Cherries,100g,50 cal
+Fruits,Clementine,100g,47 cal
+Fruits,Cranberries,100g,46 cal
+Fruits,Currants,100g,56 cal
+Fruits,Custard Apple,100g,101 cal
+Fruits,Dates,100g,282 cal
+Fruits,Figs,100g,74 cal
+Fruits,Fruit salad,100g,50 cal
+Fruits,Grapes,100g,69 cal
+Fruits,Greengage,100g,41 cal
+Fruits,Guava,100g,68 cal
+Fruits,Jackfruit,100g,95 cal
+Fruits,Jujube,100g,79 cal
+Fruits,Kiwi,100g,61 cal
+Fruits,Lemon,100g,29 cal
+Fruits,Lime,100g,30 cal
+Fruits,Lychees,100g,66 cal
+Fruits,Mandarin Oranges,100g,53 cal
+Fruits,Mango,100g,60 cal
+Fruits,Minneola,100g,64 cal
+Fruits,Mulberries,100g,43 cal
+Fruits,Nectarine,100g,44 cal
+Fruits,Olives,100g,115 cal
+Fruits,Orange,100g,47 cal
+Fruits,Papaya,100g,43 cal
+Fruits,Passion Fruit,100g,97 cal
+Fruits,Peach,100g,39 cal
+Fruits,Pear,100g,57 cal
+Fruits,Persimmon,100g,127 cal
+Fruits,Physalis,100g,49 cal
+Fruits,Pineapple,100g,50 cal
+Fruits,Plantains,100g,122 cal
+Fruits,Plum,100g,46 cal
+Fruits,Pomegranate,100g,83 cal
+Fruits,Quince,100g,57 cal
+Fruits,Raisins,100g,299 cal
+Fruits,Rambutan,100g,82 cal
+Fruits,Raspberries,100g,52 cal
+Fruits,Rhubarb,100g,21 cal
+Fruits,Starfruit,100g,31 cal
+Fruits,Strawberries,100g,32 cal
+Fruits,Tamarind,100g,239 cal
+Fruits,Tangerine,100g,53 cal
+Fruits,Watermelon,100g,30 cal
+Tropical&ExoticFruits,Acerola,100g,32 cal
+Tropical&ExoticFruits,Asian Pear,100g,42 cal
+Tropical&ExoticFruits,Avocado,100g,160 cal
+Tropical&ExoticFruits,Banana,100g,89 cal
+Tropical&ExoticFruits,Breadfruit,100g,103 cal
+Tropical&ExoticFruits,Cantaloupe Melon,100g,34 cal
+Tropical&ExoticFruits,Casaba Melon,100g,28 cal
+Tropical&ExoticFruits,Cherimoya,100g,75 cal
+Tropical&ExoticFruits,Dragon Fruit,100g,60 cal
+Tropical&ExoticFruits,Durian,100g,147 cal
+Tropical&ExoticFruits,Feijoa,100g,55 cal
+Tropical&ExoticFruits,Galia Melon,100g,23 cal
+Tropical&ExoticFruits,Grapefruit,100g,42 cal
+Tropical&ExoticFruits,Guava,100g,68 cal
+Tropical&ExoticFruits,Honeydew,100g,36 cal
+Tropical&ExoticFruits,Jackfruit,100g,95 cal
+Tropical&ExoticFruits,Kiwi,100g,61 cal
+Tropical&ExoticFruits,Kumquat,100g,71 cal
+Tropical&ExoticFruits,Lychee,100g,66 cal
+Tropical&ExoticFruits,Mandarin Oranges,100g,53 cal
+Tropical&ExoticFruits,Mango,100g,60 cal
+Tropical&ExoticFruits,Mangosteen,100g,73 cal
+Tropical&ExoticFruits,Maracuya,100g,97 cal
+Tropical&ExoticFruits,Maraschino Cherries,100g,165 cal
+Tropical&ExoticFruits,Muskmelon,100g,34 cal
+Tropical&ExoticFruits,Noni,100g,53 cal
+Tropical&ExoticFruits,Passion Fruit,100g,97 cal
+Tropical&ExoticFruits,Pineapple,100g,50 cal
+Tropical&ExoticFruits,Pink Grapefruit,100g,42 cal
+Tropical&ExoticFruits,Plantain,100g,122 cal
+Tropical&ExoticFruits,Pomegranate,100g,83 cal
+Tropical&ExoticFruits,Pomelo,100g,38 cal
+Tropical&ExoticFruits,Prickly Pear,100g,41 cal
+Tropical&ExoticFruits,Rambutan,100g,82 cal
+Tropical&ExoticFruits,Sapodilla,100g,83 cal
+Tropical&ExoticFruits,Soursop Fruit,100g,66 cal
+Tropical&ExoticFruits,Star Fruit,100g,31 cal
+Tropical&ExoticFruits,Tamarind,100g,239 cal
+Tropical&ExoticFruits,Watermelon,100g,30 cal
+PotatoProducts,All-blue Potatoes,100g,61 cal
+PotatoProducts,Baked Potato,100g,93 cal
+PotatoProducts,Boiled Potatoes,100g,87 cal
+PotatoProducts,Cassava,100g,160 cal
+PotatoProducts,Croquettes,100g,127 cal
+PotatoProducts,Dumpling Dough,100g,124 cal
+PotatoProducts,Dumplings,100g,124 cal
+PotatoProducts,French Fingerling Potatoes,100g,82 cal
+PotatoProducts,French Fries,100g,312 cal
+PotatoProducts,Fried Potatoes,100g,312 cal
+PotatoProducts,Gnocchi,100g,133 cal
+PotatoProducts,Japanese Sweet Potatoes,100g,87 cal
+PotatoProducts,Marrow Dumplings,100g,424 cal
+PotatoProducts,Mashed Potatoes,100g,89 cal
+PotatoProducts,Norland Red Potatoes,100g,89 cal
+PotatoProducts,Omelette,100g,154 cal
+PotatoProducts,Potato,100g,77 cal
+PotatoProducts,Potato Dumpling,100g,124 cal
+PotatoProducts,Potato Fritter,100g,185 cal
+PotatoProducts,Potato Gratin,100g,132 cal
+PotatoProducts,Potato Pancakes,100g,268 cal
+PotatoProducts,Potato Salad,100g,143 cal
+PotatoProducts,Potato Starch,100g,331 cal
+PotatoProducts,Potato Sticks,100g,522 cal
+PotatoProducts,Potato Waffles,100g,167 cal
+PotatoProducts,Potato Wedges,100g,123 cal
+PotatoProducts,Potatoes au Gratin,100g,132 cal
+PotatoProducts,Purple Majesty Potatoes,100g,72 cal
+PotatoProducts,Red Gold Potatoes,100g,89 cal
+PotatoProducts,Red Potatoes,100g,89 cal
+PotatoProducts,Roast Potatoes,100g,149 cal
+PotatoProducts,Rosemary Potatoes,100g,93 cal
+PotatoProducts,Rösti,100g,138 cal
+PotatoProducts,Russet Potatoes,100g,97 cal
+PotatoProducts,Russian Banana Potatoes,100g,67 cal
+PotatoProducts,Sweet Potato,100g,92 cal
+PotatoProducts,White Potatoes,100g,94 cal
+PotatoProducts,Yams,100g,116 cal
+PotatoProducts,Yukon Gold Potatoes,100g,82 cal
+Vegetables,Artichoke,100g,47 cal
+Vegetables,Arugula,100g,25 cal
+Vegetables,Asparagus,100g,20 cal
+Vegetables,Aubergine,100g,25 cal
+Vegetables,Beetroot,100g,43 cal
+Vegetables,Bell Pepper,100g,20 cal
+Vegetables,Black Olives,100g,115 cal
+Vegetables,Broccoli,100g,34 cal
+Vegetables,Brussels Sprouts,100g,43 cal
+Vegetables,Cabbage,100g,25 cal
+Vegetables,Capsicum,100g,27 cal
+Vegetables,Carrot,100g,41 cal
+Vegetables,Cauliflower,100g,25 cal
+Vegetables,Celery,100g,16 cal
+Vegetables,Chard,100g,19 cal
+Vegetables,Cherry Tomato,100g,100 cal
+Vegetables,Chicory,100g,72 cal
+Vegetables,Chinese Cabbage,100g,16 cal
+Vegetables,Chives,100g,30 cal
+Vegetables,Collard Greens,100g,32 cal
+Vegetables,Corn,100g,365 cal
+Vegetables,Courgette,100g,17 cal
+Vegetables,Creamed Spinach,100g,74 cal
+Vegetables,Cucumber,100g,16 cal
+Vegetables,Eggplant,100g,25 cal
+Vegetables,Endive,100g,17 cal
+Vegetables,Fennel,100g,31 cal
+Vegetables,Garlic,100g,149 cal
+Vegetables,Gherkin,100g,14 cal
+Vegetables,Gourd,100g,14 cal
+Vegetables,Green Beans,100g,31 cal
+Vegetables,Green Olives,100g,115 cal
+Vegetables,Green Onion,100g,32 cal
+Vegetables,Horseradish,100g,48 cal
+Vegetables,Kale,100g,49 cal
+Vegetables,Kohlrabi,100g,27 cal
+Vegetables,Kumara,100g,86 cal
+Vegetables,Leek,100g,61 cal
+Vegetables,Lettuce,100g,15 cal
+Vegetables,Mushrooms,100g,22 cal
+Vegetables,Mustard Greens,100g,27 cal
+Vegetables,Nori,100g,35 cal
+Vegetables,Okra,100g,33 cal
+Vegetables,Olives,100g,115 cal
+Vegetables,Onion,100g,40 cal
+Vegetables,Parsnips,100g,75 cal
+Vegetables,Peas,100g,81 cal
+Vegetables,Pepper,100g,27 cal
+Vegetables,Potato,100g,77 cal
+Vegetables,Pumpkin,100g,26 cal
+Vegetables,Radishes,100g,16 cal
+Vegetables,Red Cabbage,100g,31 cal
+Vegetables,Rutabaga,100g,38 cal
+Vegetables,Shallots,100g,72 cal
+Vegetables,Spinach,100g,23 cal
+Vegetables,Squash,100g,45 cal
+Vegetables,Sweet Potato,100g,86 cal
+Vegetables,Tomato,100g,18 cal
+Vegetables,Turnip Greens,100g,20 cal
+Vegetables,Turnips,100g,28 cal
+Vegetables,Wasabi,100g,109 cal
+Vegetables,Winter Squash,100g,34 cal
+Vegetables,Zucchini,100g,17 cal
+FastFood,Arby’s Grand Turkey Club,100g,210 cal
+FastFood,Arby’s Reuben,100g,208 cal
+FastFood,Arby’s Roast Beef Classic,100g,234 cal
+FastFood,Arby’s Roast Beef Max,100g,234 cal
+FastFood,BBQ Rib,100g,212 cal
+FastFood,Bean Burrito,100g,200 cal
+FastFood,Big N’ Tasty,100g,223 cal
+FastFood,Bratwurst,100g,333 cal
+FastFood,Burger King Angry Whopper,100g,255 cal
+FastFood,Burger King Double Whopper,100g,239 cal
+FastFood,Burger King Double Whopper with Cheese,100g,249 cal
+FastFood,Burger King Original Chicken Sandwich,100g,301 cal
+FastFood,Burger King Premium Alaskan Fish Sandwich,100g,259 cal
+FastFood,Burger King Triple Whopper,100g,269 cal
+FastFood,Burger King Whopper,100g,231 cal
+FastFood,Burger King Whopper Jr.,100g,234 cal
+FastFood,Burger King Whopper with Cheese,100g,241 cal
+FastFood,Cheeseburger,100g,263 cal
+FastFood,Chicken Breast,100g,163 cal
+FastFood,Chicken Fajita,100g,147 cal
+FastFood,Chicken McNuggets,100g,302 cal
+FastFood,Chicken Nuggets,100g,296 cal
+FastFood,Chicken Pizziola,100g,141 cal
+FastFood,Chicken Sandwich,100g,241 cal
+FastFood,Chicken Teriyaki Sandwich,100g,138 cal
+FastFood,Chicken Wings,100g,324 cal
+FastFood,Chop Suey,100g,172 cal
+FastFood,Curly Fries,100g,311 cal
+FastFood,Double Cheeseburger,100g,267 cal
+FastFood,Egg Roll,100g,250 cal
+FastFood,Falafel,100g,335 cal
+FastFood,Filet-o-Fish,100g,282 cal
+FastFood,Fish and Chips,100g,195 cal
+FastFood,Fish Sandwich,100g,273 cal
+FastFood,French Fries,100g,312 cal
+FastFood,Grilled Chicken Salad,100g,88 cal
+FastFood,Ham Sandwich,100g,241 cal
+FastFood,Hamburger,100g,254 cal
+FastFood,Hot Dog,100g,269 cal
+FastFood,Italian BMT,100g,183 cal
+FastFood,Lasagna,100g,132 cal
+FastFood,McDonald’s Big Mac,100g,256 cal
+FastFood,McDonald’s Cheeseburger,100g,263 cal
+FastFood,McDonald’s Chicken Nuggets,100g,297 cal
+FastFood,McDonald’s Double Cheeseburger,100g,282 cal
+FastFood,McDonald’s Filet-o-Fish,100g,275 cal
+FastFood,McDonald’s McChicken,100g,251 cal
+FastFood,McDonald’s McDouble,100g,252 cal
+FastFood,McDonald’s McMuffi Egg,100g,225 cal
+FastFood,McDonald’s McRib,100g,265 cal
+FastFood,McDonald’s Mighty Wings,100g,308 cal
+FastFood,McRib,100g,265 cal
+FastFood,Meatball Sandwich,100g,161 cal
+FastFood,Nachos with Cheese,100g,306 cal
+FastFood,Onion Rings,100g,411 cal
+FastFood,Smoked Salmon,100g,158 cal
+FastFood,Spicy Italian,100g,219 cal
+FastFood,Subway Club Sandwich,100g,131 cal
+FastFood,Tortilla Wrap,100g,271 cal
+FastFood,Tuna,100g,86 cal
+FastFood,Turkey,100g,104 cal
+FastFood,Veggie Burger,100g,181 cal
+FastFood,Veggie Delight,100g,138 cal
+FastFood,Veggie Patty,100g,390 cal
+FastFood,Wendy’s Baconator,100g,304 cal
+FastFood,Wendy’s Jr. Bacon Cheeseburger,100g,261 cal
+FastFood,Wendy’s Jr. Cheeseburger,100g,225 cal
+FastFood,Wendy’s Son of Baconator,100g,321 cal
+FastFood,Whopper,100g,231 cal
+FastFood,Zinger,100g,256 cal
+FastFood,Zinger Burger,100g,256 cal
+FastFood,Poutine,100g,227 cal
+Pizza,BBQ Chicken Pizza,100g,234 cal
+Pizza,BBQ Pizza,100g,224 cal
+Pizza,Beef Pizza,100g,304 cal
+Pizza,Bianca Pizza,100g,246 cal
+Pizza,Buffalo Chicken Pizza,100g,252 cal
+Pizza,Calabrese Pizza,100g,235 cal
+Pizza,Calzone,100g,231 cal
+Pizza,Capricciosa Pizza,100g,260 cal
+Pizza,Cheese Pizza,100g,267 cal
+Pizza,Chicken Pizza,100g,234 cal
+Pizza,Deep Dish Pizza,100g,265 cal
+Pizza,Dominos Philly Cheese Steak Pizza,100g,224 cal
+Pizza,Four Cheese Pizza,100g,221 cal
+Pizza,Goat Cheese Pizza,100g,219 cal
+Pizza,Grilled Pizza,100g,226 cal
+Pizza,Hawaiian Pizza,100g,115 cal
+Pizza,Margherita Pizza,100g,275 cal
+Pizza,Mozzarella Pizza,100g,249 cal
+Pizza,Mushroom Pizza,100g,212 cal
+Pizza,Napoli Pizza,100g,202 cal
+Pizza,New York Style Pizza,100g,169 cal
+Pizza,Pepperoni Pizza,100g,255 cal
+Pizza,Pizza Dough,100g,228 cal
+Pizza,Pizza Hut Stuffed Crust Pizza,100g,255 cal
+Pizza,Pizza Hut Supreme Pizza,100g,248 cal
+Pizza,Pizza Rolls,100g,247 cal
+Pizza,Quattro Formaggi Pizza,100g,248 cal
+Pizza,Red Pepper Pizza,100g,192 cal
+Pizza,Salami Pizza,100g,255 cal
+Pizza,Sausage Pizza,100g,246 cal
+Pizza,Seafood Pizza,100g,245 cal
+Pizza,Shrimp Pizza,100g,209 cal
+Pizza,Sicilian Pizza,100g,241 cal
+Pizza,Spinach Feta Pizza,100g,242 cal
+Pizza,Spinach Pizza,100g,234 cal
+Pizza,Stuffed Crust Pizza,100g,255 cal
+Pizza,Tarte Flambée,100g,253 cal
+Pizza,Thin Crust Pizza,100g,261 cal
+Pizza,Tuna Pizza,100g,254 cal
+Pizza,Vegetable Pizza,100g,256 cal
+Pizza,Vegetarian Pizza,100g,256 cal
+Pizza,Veggie Pizza,100g,231 cal
+Pizza,White Pizza,100g,246 cal
+Cheese,American Cheese,100g,148 cal
+Cheese,Applewood,100g,410 cal
+Cheese,Asiago Cheese,100g,392 cal
+Cheese,Babybel,100g,333 cal
+Cheese,Blue Cheese,100g,353 cal
+Cheese,Brie,100g,334 cal
+Cheese,Camembert,100g,300 cal
+Cheese,Cheddar,100g,403 cal
+Cheese,Cheese Fondue,100g,228 cal
+Cheese,Cheese Spread,100g,290 cal
+Cheese,Cheese Whiz,100g,276 cal
+Cheese,Chester,100g,387 cal
+Cheese,Colby Cheese,100g,394 cal
+Cheese,Colby-Jack Cheese,100g,394 cal
+Cheese,Cottage Cheese,100g,98 cal
+Cheese,Dutch Cheese,100g,393 cal
+Cheese,Edam Cheese,100g,357 cal
+Cheese,Emmentaler,100g,357 cal
+Cheese,Feta,100g,264 cal
+Cheese,Fontina,100g,389 cal
+Cheese,Fresh Mozzarella,100g,280 cal
+Cheese,Gjetost,100g,466 cal
+Cheese,Goat Cheese,100g,364 cal
+Cheese,Gorgonzola,100g,350 cal
+Cheese,Gouda,100g,356 cal
+Cheese,Grated Parmesan,100g,431 cal
+Cheese,Grilled Cheese,100g,350 cal
+Cheese,Gruyere,100g,413 cal
+Cheese,Halloumi,100g,321 cal
+Cheese,Havarti,100g,371 cal
+Cheese,Italian Cheese,100g,397 cal
+Cheese,Jarlsberg,100g,352 cal
+Cheese,Maasdam Cheese,100g,344 cal
+Cheese,Manchego Cheese,100g,320 cal
+Cheese,Monterey,100g,373 cal
+Cheese,Monterey Jack Cheese,100g,373 cal
+Cheese,Mozzarella,100g,280 cal
+Cheese,Muenster Cheese,100g,368 cal
+Cheese,Neufchatel,100g,253 cal
+Cheese,Parmesan,100g,431 cal
+Cheese,Pecorino,100g,387 cal
+Cheese,Provolone,100g,351 cal
+Cheese,Raclette Cheese,100g,357 cal
+Cheese,Ricotta,100g,174 cal
+Cheese,Romano,100g,387 cal
+Cheese,Roquefort,100g,369 cal
+Cheese,Sheep Cheese,100g,364 cal
+Cheese,Soft Cheese,100g,268 cal
+Cheese,Stilton Cheese,100g,393 cal
+Cheese,String Cheese,100g,250 cal
+Cheese,Swiss Cheese,100g,380 cal
+Cheese,White Cheddar,100g,403 cal
+Cheese,Wisconsin Cheese,100g,389 cal
+CreamCheese,Chive Cream Cheese,100g,342 cal
+CreamCheese,Cottage Cheese,100g,98 cal
+CreamCheese,Cream Cheese,100g,342 cal
+CreamCheese,Cream Cheese with Herbs,100g,342 cal
+CreamCheese,Feta Cream Cheese,100g,342 cal
+CreamCheese,Garlic Cream Cheese,100g,342 cal
+CreamCheese,Goat Cheese,100g,364 cal
+CreamCheese,Horseradish,100g,48 cal
+CreamCheese,Mascarpone,100g,450 cal
+CreamCheese,Obatzda,100g,303 cal
+CreamCheese,Olive Cream Cheese,100g,342 cal
+CreamCheese,Pesto Cream Cheese,100g,342 cal
+CreamCheese,Philadelphia Cream Cheese,100g,342 cal
+CreamCheese,Pineapple Cream Cheese,100g,342 cal
+CreamCheese,Salmon Cream Cheese,100g,342 cal
+CreamCheese,Vegetable Cream Cheese,100g,342 cal
+CreamCheese,Walnut Cream Cheese,100g,342 cal
+Milk&DairyProducts,Almond Milk,100ml,17 cal
+Milk&DairyProducts,Buttermilk,100ml,62 cal
+Milk&DairyProducts,Chocolate Mousse,100g,225 cal
+Milk&DairyProducts,Coconut Milk,100ml,230 cal
+Milk&DairyProducts,Coffee Creamer,100g,195 cal
+Milk&DairyProducts,Condensed Milk,100g,321 cal
+Milk&DairyProducts,Cottage Cheese,100g,98 cal
+Milk&DairyProducts,Cream,100g,242 cal
+Milk&DairyProducts,Creme Fraiche,100g,393 cal
+Milk&DairyProducts,Curd,100g,98 cal
+Milk&DairyProducts,Custard,100g,122 cal
+Milk&DairyProducts,Evaporated Milk,100g,135 cal
+Milk&DairyProducts,Goat Milk,100g,69 cal
+Milk&DairyProducts,Hot Chocolate,100ml,89 cal
+Milk&DairyProducts,Kefir,100ml,55 cal
+Milk&DairyProducts,Lactose-free Milk,100ml,52 cal
+Milk&DairyProducts,Lassi,100ml,75 cal
+Milk&DairyProducts,Milk,100ml,61 cal
+Milk&DairyProducts,Plain Yogurt,100g,61 cal
+Milk&DairyProducts,Powdered Milk,100g,496 cal
+Milk&DairyProducts,Quark,100g,145 cal
+Milk&DairyProducts,Rice Milk,100ml,49 cal
+Milk&DairyProducts,Rice Pudding,100g,118 cal
+Milk&DairyProducts,Semi-skimmed Milk,100ml,50 cal
+Milk&DairyProducts,Semolina Pudding,100g,67 cal
+Milk&DairyProducts,Skim Milk,100ml,35 cal
+Milk&DairyProducts,Sour Cream,100g,181 cal
+Milk&DairyProducts,Soy Milk,100ml,45 cal
+Milk&DairyProducts,Sweetened Condensed Milk,100ml,321 cal
+Milk&DairyProducts,Tzatziki,100g,117 cal
+Milk&DairyProducts,Whipped Cream,100g,257 cal
+Milk&DairyProducts,Whole Milk,100ml,61 cal
+Milk&DairyProducts,Yogurt,100g,61 cal
+SlicedCheese,American Cheese,100g,148 cal
+SlicedCheese,Applewood,100g,410 cal
+SlicedCheese,Bergkäse,100g,418 cal
+SlicedCheese,Butter Cheese,100g,388 cal
+SlicedCheese,Cheddar,100g,403 cal
+SlicedCheese,Cheese Platter,100g,357 cal
+SlicedCheese,Cheese Slices,100g,356 cal
+SlicedCheese,Colby Cheese,100g,394 cal
+SlicedCheese,Colby-Jack Cheese,100g,394 cal
+SlicedCheese,Cold Pack Cheese,100g,246 cal
+SlicedCheese,Edam,100g,357 cal
+SlicedCheese,Edam Cheese,100g,357 cal
+SlicedCheese,Emmental,100g,357 cal
+SlicedCheese,Emmentaler,100g,357 cal
+SlicedCheese,Esrom (Cheese),100g,322 cal
+SlicedCheese,Fol Epi,100g,388 cal
+SlicedCheese,Fresh Mozzarella,100g,280 cal
+SlicedCheese,Gouda,100g,356 cal
+SlicedCheese,Gouda Cheese,100g,356 cal
+SlicedCheese,Havarti,100g,371 cal
+SlicedCheese,Lacy Swiss Cheese,100g,321 cal
+SlicedCheese,Leerdammer,100g,284 cal
+SlicedCheese,Leerdammer Cheese,100g,284 cal
+SlicedCheese,Maasdam Cheese,100g,344 cal
+SlicedCheese,Monterey Jack Cheese,100g,373 cal
+SlicedCheese,Mozzarella,100g,280 cal
+SlicedCheese,Muenster Cheese,100g,368 cal
+SlicedCheese,Pepper Cheese,100g,100 cal
+SlicedCheese,Sandwich Cheese,100g,148 cal
+SlicedCheese,Smoked Cheese,100g,410 cal
+SlicedCheese,Tilsit,100g,340 cal
+SlicedCheese,White American,100g,148 cal
+SlicedCheese,White Cheddar,100g,403 cal
+SlicedCheese,Young Gouda,100g,356 cal
+Yogurt,Activia,100g,74 cal
+Yogurt,Activia Lemon,100g,100 cal
+Yogurt,Activia Strawberry,100g,97 cal
+Yogurt,Aloe Vera Yogurt,100g,85 cal
+Yogurt,Ayran,100ml,42 cal
+Yogurt,Bircher Muesli Yogurt,100g,109 cal
+Yogurt,Blueberry Yogurt,100g,105 cal
+Yogurt,Cherry Yogurt,100g,97 cal
+Yogurt,Chocolate Yogurt,100g,128 cal
+Yogurt,Cream Yogurt,100g,124 cal
+Yogurt,Creamy Yogurt,100g,90 cal
+Yogurt,Diet Yogurt,100g,54 cal
+Yogurt,Fruit Yogurt,100g,97 cal
+Yogurt,Greek Yogurt,100g,53 cal
+Yogurt,Low-Fat Yogurt,100g,63 cal
+Yogurt,Mocca Yogurt,100g,100 cal
+Yogurt,Organic Yogurt,100g,75 cal
+Yogurt,Peach Yogurt,100g,97 cal
+Yogurt,Plain Yogurt,100g,61 cal
+Yogurt,Probiotic Yogurt,100g,80 cal
+Yogurt,Skim Milk Yogurt,100g,56 cal
+Yogurt,Stracciatella Yogurt,100g,139 cal
+Yogurt,Strawberry Yogurt,100g,100 cal
+Yogurt,Vanilla Yogurt,100g,101 cal
+Yogurt,Yogurt,100g,61 cal
+Yogurt,Yogurt Corner,100g,119 cal
+Yogurt,Yoplait Boston Cream Pie,100g,90 cal
+Yogurt,Yoplait French Vanilla,100g,100 cal
+Yogurt,Yoplait Greek Blueberry,100g,100 cal
+Yogurt,Yoplait Greek Coconut,100g,100 cal
+Yogurt,Yoplait Greek Strawberry,100g,100 cal
+Yogurt,Yoplait Greek Vanilla,100g,100 cal
+Yogurt,Yoplait Harvest Peach,100g,100 cal
+Yogurt,Yoplait Key Lime Pie,100g,100 cal
+Yogurt,Yoplait Mango,100g,100 cal
+Yogurt,Yoplait Mixed Berry,100g,100 cal
+Yogurt,Yoplait Pina Colada,100g,100 cal
+Yogurt,Yoplait Strawberry,100g,100 cal
+Yogurt,Yoplait Strawberry Banana,100g,100 cal
+Yogurt,Yoplait Strawberry Cheesecake,100g,100 cal
+Beef&Veal,Beef,100g,171 cal
+Beef&Veal,Beef Brisket,100g,137 cal
+Beef&Veal,Beef Fillet,100g,189 cal
+Beef&Veal,Beef Goulash,100g,123 cal
+Beef&Veal,Beef Minute Steak,100g,133 cal
+Beef&Veal,Beef Neck,100g,213 cal
+Beef&Veal,Beef Pancreas,100g,271 cal
+Beef&Veal,Beef Patty,100g,247 cal
+Beef&Veal,Beef Prime Rib,100g,404 cal
+Beef&Veal,Beef Ribs,100g,196 cal
+Beef&Veal,Beef Sirloin,100g,182 cal
+Beef&Veal,Beef Suet,100g,854 cal
+Beef&Veal,Beef Tallow,100g,902 cal
+Beef&Veal,Beef Thymus,100g,319 cal
+Beef&Veal,Beef Tripe,100g,94 cal
+Beef&Veal,Chuck Roast,100g,141 cal
+Beef&Veal,Chuck Steak,100g,137 cal
+Beef&Veal,Filet Mignon,100g,207 cal
+Beef&Veal,Flank Steak,100g,194 cal
+Beef&Veal,Ground Beef,100g,241 cal
+Beef&Veal,Ground Chuck,100g,250 cal
+Beef&Veal,Ground Round,100g,212 cal
+Beef&Veal,Minced Veal,100g,143 cal
+Beef&Veal,Porterhouse Steak,100g,247 cal
+Beef&Veal,Rib Eye Steak,100g,217 cal
+Beef&Veal,Roast Beef,100g,187 cal
+Beef&Veal,Rump Steak,100g,171 cal
+Beef&Veal,Skirt Steak,100g,205 cal
+Beef&Veal,Stew Beef,100g,191 cal
+Beef&Veal,Strip Steak,100g,117 cal
+Beef&Veal,T-Bone-Steak,100g,221 cal
+Beef&Veal,Veal,100g,282 cal
+Beef&Veal,Veal Breast,100g,282 cal
+Beef&Veal,Veal Leg,100g,211 cal
+Beef&Veal,Veal Roast Beef,100g,175 cal
+Beef&Veal,Veal Shank,100g,177 cal
+Beef&Veal,Veal Shoulder,100g,183 cal
+Beef&Veal,Veal Sirloin,100g,204 cal
+Beef&Veal,Veal Tenderloin,100g,217 cal
+ColdCuts&LunchMeat,Baked Ham,100g,343 cal
+ColdCuts&LunchMeat,Beef Salami,100g,375 cal
+ColdCuts&LunchMeat,Boiled Ham,100g,126 cal
+ColdCuts&LunchMeat,Bologna,100g,247 cal
+ColdCuts&LunchMeat,Bresaola,100g,178 cal
+ColdCuts&LunchMeat,Capicola,100g,110 cal
+ColdCuts&LunchMeat,Chicken Breast Fillet,100g,79 cal
+ColdCuts&LunchMeat,Chopped Ham,100g,180 cal
+ColdCuts&LunchMeat,Chorizo,100g,455 cal
+ColdCuts&LunchMeat,Corned Beef,100g,251 cal
+ColdCuts&LunchMeat,Dutch Loaf,100g,268 cal
+ColdCuts&LunchMeat,Ham,100g,145 cal
+ColdCuts&LunchMeat,Ham Sausage,100g,164 cal
+ColdCuts&LunchMeat,Head Cheese,100g,157 cal
+ColdCuts&LunchMeat,Hickory Ham,100g,188 cal
+ColdCuts&LunchMeat,Honey Ham,100g,122 cal
+ColdCuts&LunchMeat,Liverwurst,100g,326 cal
+ColdCuts&LunchMeat,Olive Loaf,100g,232 cal
+ColdCuts&LunchMeat,Oven-Roasted Turkey Breast,100g,104 cal
+ColdCuts&LunchMeat,Parma Ham,100g,345 cal
+ColdCuts&LunchMeat,Pastrami,100g,133 cal
+ColdCuts&LunchMeat,Pepperoni,100g,494 cal
+ColdCuts&LunchMeat,Pimento Loaf,100g,265 cal
+ColdCuts&LunchMeat,Pork Roast,100g,247 cal
+ColdCuts&LunchMeat,Prosciutto,100g,195 cal
+ColdCuts&LunchMeat,Roast Beef,100g,267 cal
+ColdCuts&LunchMeat,Salami,100g,336 cal
+ColdCuts&LunchMeat,Serrano Ham,100g,300 cal
+ColdCuts&LunchMeat,Smoked Ham,100g,107 cal
+ColdCuts&LunchMeat,Smoked Turkey Breast,100g,104 cal
+ColdCuts&LunchMeat,Summer Sausage,100g,298 cal
+ColdCuts&LunchMeat,Tongue,100g,284 cal
+ColdCuts&LunchMeat,Turkey Breast,100g,104 cal
+ColdCuts&LunchMeat,Turkey Ham,100g,126 cal
+ColdCuts&LunchMeat,Turkey Salami,100g,152 cal
+Meat,Alligator,100g,232 cal
+Meat,Beef,100g,248 cal
+Meat,Beef Brisket,100g,242 cal
+Meat,Beef Jerky,100g,410 cal
+Meat,Beef Ribs,100g,238 cal
+Meat,Beef Tenderloin,100g,218 cal
+Meat,Chicken,100g,219 cal
+Meat,Chicken Breast,100g,172 cal
+Meat,Chicken Drumstick,100g,185 cal
+Meat,Chicken Fat,100g,898 cal
+Meat,Chicken Giblets,100g,158 cal
+Meat,Chicken Gizzards,100g,146 cal
+Meat,Chicken Leg,100g,174 cal
+Meat,Chicken Liver,100g,167 cal
+Meat,Chicken Meat,100g,172 cal
+Meat,Chicken Thigh,100g,229 cal
+Meat,Chicken Wing,100g,266 cal
+Meat,Chuck Steak,100g,277 cal
+Meat,Cubed Steak,100g,199 cal
+Meat,Duck,100g,337 cal
+Meat,Filet Mignon,100g,267 cal
+Meat,Flank Steak,100g,194 cal
+Meat,Flat Iron Steak,100g,137 cal
+Meat,Ground Beef,100g,246 cal
+Meat,Ground Round,100g,246 cal
+Meat,Ham,100g,163 cal
+Meat,New York Strip Steak,100g,199 cal
+Meat,Ostrich,100g,145 cal
+Meat,Pork,100g,196 cal
+Meat,Pork Baby Back Ribs,100g,212 cal
+Meat,Pork Chops,100g,196 cal
+Meat,Pork Country-Style Ribs,100g,247 cal
+Meat,Pork Loin,100g,204 cal
+Meat,Pork Roast,100g,254 cal
+Meat,Pork Steaks,100g,196 cal
+Meat,Roast Beef,100g,140 cal
+Meat,Round Steak,100g,182 cal
+Meat,Schnitzel,100g,156 cal
+Meat,Spare Ribs,100g,238 cal
+Meat,Standing Rib Roast,100g,333 cal
+Meat,T-Bone Steak,100g,202 cal
+Meat,Turkey,100g,189 cal
+Meat,Turkey Breast,100g,135 cal
+Meat,Turkey Legs,100g,208 cal
+Meat,Turkey Steak,100g,189 cal
+Meat,Turkey Wings,100g,221 cal
+Offal&Giblets,Beef Brain,100g,196 cal
+Offal&Giblets,Beef Heart,100g,165 cal
+Offal&Giblets,Beef Kidney,100g,158 cal
+Offal&Giblets,Beef Liver,100g,191 cal
+Offal&Giblets,Beef Lung,100g,120 cal
+Offal&Giblets,Beef Melt,100g,271 cal
+Offal&Giblets,Beef Tongue,100g,284 cal
+Offal&Giblets,Calf Brain,100g,136 cal
+Offal&Giblets,Calf Liver,100g,192 cal
+Offal&Giblets,Calf Lung,100g,104 cal
+Offal&Giblets,Calf Melt,100g,256 cal
+Offal&Giblets,Chicken Giblets,100g,277 cal
+Offal&Giblets,Chicken Heart,100g,185 cal
+Offal&Giblets,Chicken Liver,100g,172 cal
+Offal&Giblets,Chicken Stomach,100g,148 cal
+Offal&Giblets,Chitterlings,100g,233 cal
+Offal&Giblets,Duck Liver,100g,136 cal
+Offal&Giblets,Goose Liver,100g,133 cal
+Offal&Giblets,Hog Maws,100g,157 cal
+Offal&Giblets,Pig Brain,100g,138 cal
+Offal&Giblets,Pig Heart,100g,148 cal
+Offal&Giblets,Pig Kidney,100g,151 cal
+Offal&Giblets,Pig Lung,100g,99 cal
+Offal&Giblets,Pork Liver,100g,165 cal
+Offal&Giblets,Pork Melt,100g,219 cal
+Offal&Giblets,Pork Tongue,100g,271 cal
+Offal&Giblets,Turkey Giblets,100g,173 cal
+Offal&Giblets,Turkey Heart,100g,174 cal
+Offal&Giblets,Turkey Liver,100g,189 cal
+Offal&Giblets,Turkey Stomach,100g,148 cal
+Offal&Giblets,Veal Heart,100g,186 cal
+Offal&Giblets,Veal Kidney,100g,163 cal
+Offal&Giblets,Veal Tongue,100g,202 cal
+Pork,Bacon,100g,407 cal
+Pork,Brawn,100g,309 cal
+Pork,Canadian-Style Bacon,100g,107 cal
+Pork,Chitterlings,100g,233 cal
+Pork,Ground Pork,100g,263 cal
+Pork,Hog Maws,100g,250 cal
+Pork,Lard,100g,898 cal
+Pork,Meatloaf,100g,89 cal
+Pork,Parma Ham,100g,261 cal
+Pork,Pig Ear,100g,166 cal
+Pork,Pig Fat,100g,638 cal
+Pork,Pig’s Tail,100g,396 cal
+Pork,Pig’s Trotter,100g,243 cal
+Pork,Pork Bacon,100g,407 cal
+Pork,Pork Belly,100g,518 cal
+Pork,Pork Blade Steak,100g,232 cal
+Pork,Pork Chop,100g,123 cal
+Pork,Pork Country-Style Ribs,100g,133 cal
+Pork,Pork Crown Roast,100g,212 cal
+Pork,Pork Cutlet,100g,131 cal
+Pork,Pork Cutlets,100g,131 cal
+Pork,Pork Leg,100g,201 cal
+Pork,Pork Loin,100g,143 cal
+Pork,Pork Meatloaf,100g,243 cal
+Pork,Pork Ragout,100g,73 cal
+Pork,Pork Rib Roast,100g,159 cal
+Pork,Pork Ribs,100g,292 cal
+Pork,Pork Roast,100g,194 cal
+Pork,Pork Sausage,100g,339 cal
+Pork,Pork Shank,100g,172 cal
+Pork,Pork Shoulder,100g,269 cal
+Pork,Pork Shoulder Blade,100g,232 cal
+Pork,Pork Stomach,100g,250 cal
+Pork,Rack of Pork,100g,241 cal
+Pork,Salt Meat,100g,286 cal
+Pork,Salt Pork,100g,286 cal
+Pork,Serrano Ham,100g,339 cal
+Pork,Spare Ribs,100g,396 cal
+Pork,Spareribs,100g,238 cal
+Poultry&Fowl,Capon,100g,229 cal
+Poultry&Fowl,Chicken,100g,219 cal
+Poultry&Fowl,Chicken Breast,100g,172 cal
+Poultry&Fowl,Chicken Drumsticks,100g,185 cal
+Poultry&Fowl,Chicken Gizzards,100g,154 cal
+Poultry&Fowl,Chicken Legs,100g,174 cal
+Poultry&Fowl,Chicken Thighs,100g,229 cal
+Poultry&Fowl,Chicken Wings,100g,266 cal
+Poultry&Fowl,Cornish Hens,100g,259 cal
+Poultry&Fowl,Dove,100g,213 cal
+Poultry&Fowl,Duck,100g,337 cal
+Poultry&Fowl,Duck Breast,100g,201 cal
+Poultry&Fowl,Emu,100g,152 cal
+Poultry&Fowl,Goose,100g,305 cal
+Poultry&Fowl,Guinea-Fowl,100g,158 cal
+Poultry&Fowl,Ostrich,100g,145 cal
+Poultry&Fowl,Ostrich Meat,100g,145 cal
+Poultry&Fowl,Pheasant,100g,239 cal
+Poultry&Fowl,Pheasant Breast,100g,133 cal
+Poultry&Fowl,Pheasant Leg,100g,239 cal
+Poultry&Fowl,Pigeon,100g,142 cal
+Poultry&Fowl,Poularde,100g,200 cal
+Poultry&Fowl,Quail,100g,227 cal
+Poultry&Fowl,Quail Breast,100g,123 cal
+Poultry&Fowl,Rhea,100g,160 cal
+Poultry&Fowl,Turkey,100g,189 cal
+Poultry&Fowl,Turkey Breast,100g,135 cal
+Poultry&Fowl,Turkey Cutlet,100g,189 cal
+Poultry&Fowl,Turkey Drumsticks,100g,208 cal
+Poultry&Fowl,Turkey Legs,100g,208 cal
+Poultry&Fowl,Turkey Steak,100g,189 cal
+Poultry&Fowl,Turkey Wings,100g,221 cal
+Poultry&Fowl,Wild Duck,100g,211 cal
+Sausage,Andouille,100g,232 cal
+Sausage,Bacon,100g,407 cal
+Sausage,Black Pudding,100g,379 cal
+Sausage,Blood Sausage,100g,379 cal
+Sausage,Bockwurst,100g,301 cal
+Sausage,Boiled Ham,100g,104 cal
+Sausage,Bologna,100g,247 cal
+Sausage,Boudin,100g,194 cal
+Sausage,Bratwurst,100g,297 cal
+Sausage,Brawn,100g,157 cal
+Sausage,Breakfast Sausage Links,100g,339 cal
+Sausage,Cheese Pastry,100g,374 cal
+Sausage,Chicken Breast,100g,79 cal
+Sausage,Chicken Meat,100g,79 cal
+Sausage,Chicken Salad,100g,81 cal
+Sausage,Chorizo,100g,455 cal
+Sausage,Cooked Ham,100g,133 cal
+Sausage,Corned Beef,100g,153 cal
+Sausage,Cumberland Sausage,100g,250 cal
+Sausage,Frankfurters,100g,305 cal
+Sausage,Garlic Sausage,100g,169 cal
+Sausage,Hot Dogs,100g,278 cal
+Sausage,Hot Sausage,100g,259 cal
+Sausage,Italian Sausage,100g,149 cal
+Sausage,Jerky,100g,410 cal
+Sausage,Kielbasa,100g,309 cal
+Sausage,Knackwurst,100g,307 cal
+Sausage,Landjaeger,100g,352 cal
+Sausage,Linguica,100g,282 cal
+Sausage,Liver Pate,100g,319 cal
+Sausage,Liverwurst,100g,326 cal
+Sausage,Luncheon Meat,100g,117 cal
+Sausage,Mettwurst,100g,310 cal
+Sausage,Mortadella,100g,311 cal
+Sausage,Pastrami,100g,133 cal
+Sausage,Pepperoni,100g,494 cal
+Sausage,Polish Sausage,100g,301 cal
+Sausage,Pork,100g,247 cal
+Sausage,Pork Roll,100g,302 cal
+Sausage,Prosciutto,100g,195 cal
+Sausage,Ring Bologna,100g,286 cal
+Sausage,Salami,100g,336 cal
+Sausage,Sausage,100g,230 cal
+Sausage,Smoked Sausage,100g,301 cal
+Sausage,Souse,100g,157 cal
+Sausage,Spam,100g,315 cal
+Sausage,Weisswurst,100g,313 cal
+Venison&Game,Alligator,100g,104 cal
+Venison&Game,Alligator Meat,100g,232 cal
+Venison&Game,Antelope Meat,100g,150 cal
+Venison&Game,Bear Meat,100g,259 cal
+Venison&Game,Beaver Meat,100g,212 cal
+Venison&Game,Bison,100g,171 cal
+Venison&Game,Bison Meat,100g,171 cal
+Venison&Game,Bison Sirloin,100g,171 cal
+Venison&Game,Buffalo,100g,131 cal
+Venison&Game,Buffalo Meat,100g,131 cal
+Venison&Game,Caribou,100g,159 cal
+Venison&Game,Goose,100g,238 cal
+Venison&Game,Goose Meat,100g,238 cal
+Venison&Game,Lamb,100g,202 cal
+Venison&Game,Lamb Meat,100g,202 cal
+Venison&Game,Mallard Duck Meat,100g,211 cal
+Venison&Game,Mallard Meat,100g,211 cal
+Venison&Game,Moose,100g,134 cal
+Venison&Game,Moose Meat,100g,134 cal
+Venison&Game,Mutton,100g,234 cal
+Venison&Game,Mutton Meat,100g,234 cal
+Venison&Game,Ostrich,100g,175 cal
+Venison&Game,Ostrich Meat,100g,175 cal
+Venison&Game,Pheasant,100g,239 cal
+Venison&Game,Pheasant Meat,100g,239 cal
+Venison&Game,Rabbit,100g,197 cal
+Venison&Game,Racoon,100g,255 cal
+Venison&Game,Racoon Meat,100g,255 cal
+Venison&Game,Reindeer,100g,200 cal
+Venison&Game,Reindeer Meat,100g,200 cal
+Venison&Game,Squirrel,100g,173 cal
+Venison&Game,Squirrel Meat,100g,173 cal
+Venison&Game,Venison,100g,164 cal
+Venison&Game,Venison Sirloin,100g,158 cal
+Venison&Game,Wild Boar,100g,160 cal
+Venison&Game,Wild Boar Meat,100g,160 cal
+Cakes&Pies,Angel Food Cake,100g,258 cal
+Cakes&Pies,Apple Cake,100g,252 cal
+Cakes&Pies,Apple Cobbler,100g,198 cal
+Cakes&Pies,Apple Crisp,100g,156 cal
+Cakes&Pies,Apple Crumble,100g,156 cal
+Cakes&Pies,Apple Pie,100g,237 cal
+Cakes&Pies,Apple Strudel,100g,274 cal
+Cakes&Pies,Apple Turnover,100g,348 cal
+Cakes&Pies,Applesauce Cake,100g,358 cal
+Cakes&Pies,Baked Alaska,100g,247 cal
+Cakes&Pies,Bakewell Tart,100g,430 cal
+Cakes&Pies,Banoffee Pie,100g,395 cal
+Cakes&Pies,Birthday Cake,100g,465 cal
+Cakes&Pies,Black and White Cookie,100g,381 cal
+Cakes&Pies,Black Forest Cake,100g,264 cal
+Cakes&Pies,Blueberry Cobbler,100g,234 cal
+Cakes&Pies,Blueberry Muffin,100g,377 cal
+Cakes&Pies,Blueberry Pie,100g,232 cal
+Cakes&Pies,Bundt Cake,100g,370 cal
+Cakes&Pies,Buttermilk Pie,100g,380 cal
+Cakes&Pies,Caramel Cake,100g,475 cal
+Cakes&Pies,Carrot Cake,100g,408 cal
+Cakes&Pies,Cheesecake,100g,321 cal
+Cakes&Pies,Cherry Pie,100g,260 cal
+Cakes&Pies,Chess Pie,100g,411 cal
+Cakes&Pies,Chocolate Cake,100g,389 cal
+Cakes&Pies,Chocolate Cream Pie,100g,304 cal
+Cakes&Pies,Chocolate Mousse Cake,100g,260 cal
+Cakes&Pies,Chocolate Mousse Pie,100g,260 cal
+Cakes&Pies,Chocolate Muffin,100g,420 cal
+Cakes&Pies,Coconut Cake,100g,356 cal
+Cakes&Pies,Coffee Cake,100g,331 cal
+Cakes&Pies,Cream Puff,100g,334 cal
+Cakes&Pies,Crumb Cake,100g,441 cal
+Cakes&Pies,Cupcake,100g,305 cal
+Cakes&Pies,Danish Pastry,100g,374 cal
+Cakes&Pies,Donut,100g,403 cal
+Cakes&Pies,Doughnut,100g,403 cal
+Cakes&Pies,Flan,100g,145 cal
+Cakes&Pies,Flourless Chocolate Cake,100g,509 cal
+Cakes&Pies,French Cruller,100g,412 cal
+Cakes&Pies,Fruit Cake,100g,324 cal
+Cakes&Pies,Funnel Cake,100g,307 cal
+Cakes&Pies,German Chocolate Cake,100g,370 cal
+Cakes&Pies,Gingerbread,100g,356 cal
+Cakes&Pies,Ice Cream Cake,100g,200 cal
+Cakes&Pies,Key Lime Pie,100g,359 cal
+Cakes&Pies,King Cake,100g,377 cal
+Cakes&Pies,Layer Cake,100g,402 cal
+Cakes&Pies,Lemon Cake,100g,352 cal
+Cakes&Pies,Lemon Meringue Pie,100g,268 cal
+Cakes&Pies,Madeira Cake,100g,394 cal
+Cakes&Pies,Marble Cake,100g,339 cal
+Cakes&Pies,Meringue,100g,285 cal
+Cakes&Pies,Opera Cake,100g,320 cal
+Cakes&Pies,Paczki,100g,336 cal
+Cakes&Pies,Pancake,100g,227 cal
+Cakes&Pies,Panettone,100g,360 cal
+Cakes&Pies,Pavlova,100g,294 cal
+Cakes&Pies,Peach Cobbler,100g,65 cal
+Cakes&Pies,Peach Pie,100g,223 cal
+Cakes&Pies,Pecan Pie,100g,407 cal
+Cakes&Pies,Pineapple Upside-Down Cake,100g,319 cal
+Cakes&Pies,Plum Cake,100g,109 cal
+Cakes&Pies,Poppy-Seed Cake,100g,394 cal
+Cakes&Pies,Pound Cake,100g,390 cal
+Cakes&Pies,Profiterole,100g,334 cal
+Cakes&Pies,Puff Pastry,100g,558 cal
+Cakes&Pies,Pumpkin Bread,100g,298 cal
+Cakes&Pies,Pumpkin Cheesecake,100g,340 cal
+Cakes&Pies,Pumpkin Pie,100g,243 cal
+Cakes&Pies,Raspberry Pie,100g,240 cal
+Cakes&Pies,Red Velvet Cake,100g,367 cal
+Cakes&Pies,Rhubarb Pie,100g,245 cal
+Cakes&Pies,Rum Cake,100g,351 cal
+Cakes&Pies,Sacher Torte,100g,352 cal
+Cakes&Pies,Sponge Cake,100g,289 cal
+Cakes&Pies,Strawberry Cheesecake,100g,327 cal
+Cakes&Pies,Strawberry Pie,100g,230 cal
+Cakes&Pies,Strawberry Rhubarb Pie,100g,281 cal
+Cakes&Pies,Sweet Potato Pie,100g,260 cal
+Cakes&Pies,Swiss Roll,100g,439 cal
+Cakes&Pies,Tarte Tatin,100g,210 cal
+Cakes&Pies,Tiramisu,100g,283 cal
+Cakes&Pies,Tiramisu Cake,100g,291 cal
+Cakes&Pies,Treacle Tart,100g,369 cal
+Cakes&Pies,Tres Leches Cake,100g,246 cal
+Cakes&Pies,Trifle,100g,180 cal
+Cakes&Pies,Victoria Sponge Cake,100g,257 cal
+Cakes&Pies,Waffles,100g,312 cal
+Cakes&Pies,Wedding Cake,100g,381 cal
+Candy&Sweets,3 Musketeers,100g,400 cal
+Candy&Sweets,After Eight,100g,452 cal
+Candy&Sweets,Airheads,100g,375 cal
+Candy&Sweets,Almond Roca,100g,571 cal
+Candy&Sweets,Angel Delight,100g,451 cal
+Candy&Sweets,Animal Crackers,100g,446 cal
+Candy&Sweets,Baby Ruth,100g,469 cal
+Candy&Sweets,Butterfinger,100g,450 cal
+Candy&Sweets,Buttermilk Pancakes,100g,238 cal
+Candy&Sweets,Candy Apple,100g,152 cal
+Candy&Sweets,Candy Cane,100g,423 cal
+Candy&Sweets,Candy canes,100g,423 cal
+Candy&Sweets,Candy Corn,100g,360 cal
+Candy&Sweets,Candy Floss,100g,400 cal
+Candy&Sweets,Caramel Popcorn,100g,376 cal
+Candy&Sweets,Caramel squares,100g,367 cal
+Candy&Sweets,Celebrations,100g,490 cal
+Candy&Sweets,Cheez-It’s,100g,533 cal
+Candy&Sweets,Chocolate,100g,529 cal
+Candy&Sweets,Chocolate Bar,100g,533 cal
+Candy&Sweets,Chocolate Chips,100g,493 cal
+Candy&Sweets,Cookies,100g,488 cal
+Candy&Sweets,Cotton Candy,100g,643 cal
+Candy&Sweets,Eggy Bread,100g,196 cal
+Candy&Sweets,Fairy Cakes,100g,440 cal
+Candy&Sweets,Ferrero Rocher,100g,576 cal
+Candy&Sweets,Flapjack,100g,486 cal
+Candy&Sweets,Fortune Cookies,100g,214 cal
+Candy&Sweets,Granola Bars,100g,452 cal
+Candy&Sweets,Gumdrops,100g,321 cal
+Candy&Sweets,Gummi Bears,100g,316 cal
+Candy&Sweets,Hanuta,100g,541 cal
+Candy&Sweets,Hershey Kisses,100g,471 cal
+Candy&Sweets,Jelly Beans,100g,354 cal
+Candy&Sweets,Jelly Belly,100g,354 cal
+Candy&Sweets,Jolly Ranchers,100g,385 cal
+Candy&Sweets,Jordan Almonds,100g,429 cal
+Candy&Sweets,Kit Kat,100g,521 cal
+Candy&Sweets,Laffy Taffy,100g,372 cal
+Candy&Sweets,Licorice,100g,375 cal
+Candy&Sweets,LifeSavers,100g,500 cal
+Candy&Sweets,Lindt Chocolate,100g,548 cal
+Candy&Sweets,Liquorice,100g,375 cal
+Candy&Sweets,Lollipop,100g,392 cal
+Candy&Sweets,M&M’s,100g,479 cal
+Candy&Sweets,Maltesers,100g,498 cal
+Candy&Sweets,Mars Bar,100g,448 cal
+Candy&Sweets,Marshmallows,100g,318 cal
+Candy&Sweets,Marzipan,100g,411 cal
+Candy&Sweets,Mike and Ike,100g,360 cal
+Candy&Sweets,Milk Duds,100g,422 cal
+Candy&Sweets,Milky Way,100g,449 cal
+Candy&Sweets,PayDay,100g,462 cal
+Candy&Sweets,Peanut Bar,100g,533 cal
+Candy&Sweets,Peanut Brittle,100g,183 cal
+Candy&Sweets,Peanut Butter Bars,100g,379 cal
+Candy&Sweets,Peanut Butter Cookies,100g,475 cal
+Candy&Sweets,Peppermint bark,100g,500 cal
+Candy&Sweets,Pez,100g,427 cal
+Candy&Sweets,Pop Rocks,100g,358 cal
+Candy&Sweets,Popcorn,100g,582 cal
+Candy&Sweets,Pumpkin Seeds,100g,560 cal
+Candy&Sweets,Reeses Peanut Butter Cups,100g,536 cal
+Candy&Sweets,Rice Pudding,100g,134 cal
+Candy&Sweets,Roasted Almonds,100g,452 cal
+Candy&Sweets,Rolo,100g,474 cal
+Candy&Sweets,S’mores,100g,500 cal
+Candy&Sweets,Semolina,100g,340 cal
+Candy&Sweets,Skittles,100g,405 cal
+Candy&Sweets,Smarties,100g,357 cal
+Candy&Sweets,Smores,100g,500 cal
+Candy&Sweets,Snickers,100g,484 cal
+Candy&Sweets,Sour Patch Kids,100g,363 cal
+Candy&Sweets,Speculoos,100g,469 cal
+Candy&Sweets,Spritz Cookies,100g,500 cal
+Candy&Sweets,Take 5,100g,476 cal
+Candy&Sweets,Toblerone,100g,525 cal
+Candy&Sweets,Trifle,100g,186 cal
+Candy&Sweets,Twix,100g,495 cal
+Candy&Sweets,Waffles,100g,272 cal
+Candy&Sweets,Whoopie Pie,100g,400 cal
+IceCream,Baskin-Robbins,100g,239 cal
+IceCream,Ben and Jerry’s,100g,228 cal
+IceCream,Butter Pecan Ice Cream,100g,248 cal
+IceCream,Carvel,100g,212 cal
+IceCream,Chocolate Chip Ice Cream,100g,215 cal
+IceCream,Chocolate Ice Cream,100g,216 cal
+IceCream,Ciao Bella,100g,109 cal
+IceCream,Coffee Ice Cream,100g,236 cal
+IceCream,Cold Stone Creamery,100g,232 cal
+IceCream,Cookie Dough Ice Cream,100g,200 cal
+IceCream,Crunchie McFlurry,100g,174 cal
+IceCream,Dairy Milk McFlurry,100g,186 cal
+IceCream,Dippin Dots,100g,224 cal
+IceCream,Double Rainbow,100g,257 cal
+IceCream,Drumsticks,100g,255 cal
+IceCream,French Vanilla Ice Cream,100g,201 cal
+IceCream,Friendly’s,100g,212 cal
+IceCream,Healthy Choice,100g,125 cal
+IceCream,Hot Fudge Sundae,100g,186 cal
+IceCream,Ice Cream Sandwich,100g,237 cal
+IceCream,Ice Cream Sundae,100g,142 cal
+IceCream,Ice Milk,100g,159 cal
+IceCream,Magnolia,100g,230 cal
+IceCream,Magnum,100g,300 cal
+IceCream,Magnum Almond,100g,315 cal
+IceCream,Magnum Double Caramel,100g,355 cal
+IceCream,Magnum Double Chocolate,100g,380 cal
+IceCream,Magnum Gold,100g,341 cal
+IceCream,Magnum White,100g,297 cal
+IceCream,McFlurry,100g,153 cal
+IceCream,McFlurry Oreo,100g,186 cal
+IceCream,Mini Milk,100g,120 cal
+IceCream,Mint Chocolate Chip Ice Cream,100g,239 cal
+IceCream,Rocky Road Ice Cream,100g,257 cal
+IceCream,Schwan’s,100g,246 cal
+IceCream,Smarties McFlurry,100g,198 cal
+IceCream,Snickers Ice Cream,100g,360 cal
+IceCream,Soft Serve,100g,222 cal
+IceCream,Solero,100g,100 cal
+IceCream,Strawberry Ice Cream,100g,236 cal
+IceCream,Strawberry Sundae,100g,158 cal
+IceCream,Sundae,100g,215 cal
+IceCream,Turkey Hill,100g,271 cal
+IceCream,Vanilla Cone,100g,162 cal
+IceCream,Vanilla Ice Cream,100g,201 cal
+(Fruit)Juices,Acai Juice,100ml,58 cal
+(Fruit)Juices,Aloe Vera,100ml,44 cal
+(Fruit)Juices,Apple Juice,100ml,46 cal
+(Fruit)Juices,Apricot Nectar,100ml,56 cal
+(Fruit)Juices,Banana Juice,100ml,50 cal
+(Fruit)Juices,Blackberry Juice,100ml,48 cal
+(Fruit)Juices,Boysenberry Juice,100ml,54 cal
+(Fruit)Juices,Capri-Sun,100ml,41 cal
+(Fruit)Juices,Carrot Juice,100ml,40 cal
+(Fruit)Juices,Chamomile Tea,100ml,0 cal
+(Fruit)Juices,Cherry Juice,100ml,45 cal
+(Fruit)Juices,Clamato,100ml,60 cal
+(Fruit)Juices,Coconut Milk,100ml,233 cal
+(Fruit)Juices,Coconut Water,100ml,19 cal
+(Fruit)Juices,Concord Grape,100ml,71 cal
+(Fruit)Juices,Cranberry Apple Juice,100ml,67 cal
+(Fruit)Juices,Cranberry Grape Juice,100ml,71 cal
+(Fruit)Juices,Cranberry Juice,100ml,46 cal
+(Fruit)Juices,Cucumber Juice,100ml,10 cal
+(Fruit)Juices,Currant Juice,100ml,48 cal
+(Fruit)Juices,Energy-Drink,100ml,87 cal
+(Fruit)Juices,Fruitopia,100ml,110 cal
+(Fruit)Juices,Grape Juice,100ml,60 cal
+(Fruit)Juices,Grapefruit Juice,100ml,46 cal
+(Fruit)Juices,Lemon Juice,100ml,21 cal
+(Fruit)Juices,Lemonade,100ml,50 cal
+(Fruit)Juices,Lime Juice,100ml,21 cal
+(Fruit)Juices,Limeade,100ml,128 cal
+(Fruit)Juices,Mango Lassi,100ml,66 cal
+(Fruit)Juices,Nestea,100ml,21 cal
+(Fruit)Juices,Orange Juice,100ml,46 cal
+(Fruit)Juices,Papaya Juice,100ml,58 cal
+(Fruit)Juices,Passion Fruit Juice,100ml,48 cal
+(Fruit)Juices,Peach Juice,100ml,54 cal
+(Fruit)Juices,Peach Nectar,100ml,54 cal
+(Fruit)Juices,Pear Juice,100ml,60 cal
+(Fruit)Juices,Pear Nectar,100ml,60 cal
+(Fruit)Juices,Pineapple Juice,100ml,53 cal
+(Fruit)Juices,Pineapple Orange Juice,100ml,50 cal
+(Fruit)Juices,Plum Juice,100ml,71 cal
+(Fruit)Juices,Pomegranate Juice,100ml,66 cal
+(Fruit)Juices,Sauerkraut Juice,100ml,14 cal
+(Fruit)Juices,Tangerine Juice,100ml,43 cal
+(Fruit)Juices,Tomato Juice,100ml,17 cal
+(Fruit)Juices,Vegetable Juice,100ml,21 cal
+(Fruit)Juices,White Grape Juice,100ml,75 cal
+AlcoholicDrinks&Beverages,Absinthe,100ml,348 cal
+AlcoholicDrinks&Beverages,Advocaat,100ml,283 cal
+AlcoholicDrinks&Beverages,Amaretto,100ml,310 cal
+AlcoholicDrinks&Beverages,Applejack,100ml,233 cal
+AlcoholicDrinks&Beverages,Asti,100ml,138 cal
+AlcoholicDrinks&Beverages,Bailey’s Irish Cream,100ml,327 cal
+AlcoholicDrinks&Beverages,Baileys,100ml,327 cal
+AlcoholicDrinks&Beverages,Beer,100ml,43 cal
+AlcoholicDrinks&Beverages,Blue Curacao,100ml,243 cal
+AlcoholicDrinks&Beverages,Bourbon,100ml,233 cal
+AlcoholicDrinks&Beverages,Brandy,100ml,213 cal
+AlcoholicDrinks&Beverages,Canadian Whiskey,100ml,216 cal
+AlcoholicDrinks&Beverages,Chambord,100ml,348 cal
+AlcoholicDrinks&Beverages,Champagne,100ml,75 cal
+AlcoholicDrinks&Beverages,Cider,100ml,49 cal
+AlcoholicDrinks&Beverages,Cognac,100ml,235 cal
+AlcoholicDrinks&Beverages,Cointreau,100ml,320 cal
+AlcoholicDrinks&Beverages,Drambuie,100ml,358 cal
+AlcoholicDrinks&Beverages,Frangelico,100ml,238 cal
+AlcoholicDrinks&Beverages,Gin,100ml,263 cal
+AlcoholicDrinks&Beverages,Glenfiddich,100ml,230 cal
+AlcoholicDrinks&Beverages,Grand Marnier,100ml,253 cal
+AlcoholicDrinks&Beverages,Irish Whiskey,100ml,233 cal
+AlcoholicDrinks&Beverages,Jack Daniel’s,100ml,146 cal
+AlcoholicDrinks&Beverages,Jagermeister,100ml,250 cal
+AlcoholicDrinks&Beverages,Jim Beam,100ml,222 cal
+AlcoholicDrinks&Beverages,Kahlua,100ml,180 cal
+AlcoholicDrinks&Beverages,Liqueur,100ml,250 cal
+AlcoholicDrinks&Beverages,Liquor,100ml,250 cal
+AlcoholicDrinks&Beverages,Midori,100ml,267 cal
+AlcoholicDrinks&Beverages,Prosecco,100ml,66 cal
+AlcoholicDrinks&Beverages,Punch,100ml,62 cal
+AlcoholicDrinks&Beverages,Red Wine,100ml,85 cal
+AlcoholicDrinks&Beverages,Rose Wine,100ml,71 cal
+AlcoholicDrinks&Beverages,Rum,100ml,231 cal
+AlcoholicDrinks&Beverages,Sambuca,100ml,333 cal
+AlcoholicDrinks&Beverages,Sangria,100ml,96 cal
+AlcoholicDrinks&Beverages,Scotch,100ml,222 cal
+AlcoholicDrinks&Beverages,Sherry,100ml,116 cal
+AlcoholicDrinks&Beverages,Sloe Gin,100ml,332 cal
+AlcoholicDrinks&Beverages,Southern Comfort,100ml,247 cal
+AlcoholicDrinks&Beverages,Tequila,100ml,110 cal
+AlcoholicDrinks&Beverages,Triple Sec,100ml,153 cal
+AlcoholicDrinks&Beverages,Vermouth,100ml,130 cal
+AlcoholicDrinks&Beverages,Vodka,100ml,231 cal
+AlcoholicDrinks&Beverages,Whisky,100ml,250 cal
+AlcoholicDrinks&Beverages,White Wine,100ml,82 cal
+AlcoholicDrinks&Beverages,Wine,100ml,83 cal
+Beer,Ale,100ml,35 cal
+Beer,Altbier,100ml,43 cal
+Beer,Bass,100ml,45 cal
+Beer,Beck’s,100ml,39 cal
+Beer,Beer,100ml,43 cal
+Beer,Blue Moon,100ml,48 cal
+Beer,Bock Beer,100ml,50 cal
+Beer,Buckler (N.A.),100ml,21 cal
+Beer,Bud Ice,100ml,35 cal
+Beer,Bud Light,100ml,29 cal
+Beer,Bud Light Chelada,100ml,43 cal
+Beer,Bud Light Lime,100ml,34 cal
+Beer,Bud Select,100ml,28 cal
+Beer,Bud Select 55,100ml,15 cal
+Beer,Budweiser,100ml,41 cal
+Beer,Budweiser Chelada,100ml,52 cal
+Beer,Busch,100ml,37 cal
+Beer,Busch Light,100ml,27 cal
+Beer,Busch N.A.,100ml,17 cal
+Beer,Carlsberg,100ml,32 cal
+Beer,Clausthaler (N.A.),100ml,26 cal
+Beer,Colt 45,100ml,44 cal
+Beer,Coors,100ml,42 cal
+Beer,Coors Light,100ml,29 cal
+Beer,Coors N.A.,100ml,18 cal
+Beer,Corona,100ml,42 cal
+Beer,Dark Beer,100ml,46 cal
+Beer,Genesee Cream Ale,100ml,46 cal
+Beer,Ginger Beer,100ml,42 cal
+Beer,Guinness,100ml,35 cal
+Beer,Heineken,100ml,35 cal
+Beer,Honey Brown,100ml,42 cal
+Beer,Hurricane High Gravity,100ml,39 cal
+Beer,IPA,100ml,51 cal
+Beer,Keystone Ice,100ml,40 cal
+Beer,Keystone Light,100ml,29 cal
+Beer,Koelsch,100ml,43 cal
+Beer,Labatt,100ml,43 cal
+Beer,Lager Beer,100ml,43 cal
+Beer,Land Shark,100ml,42 cal
+Beer,Light Beer,100ml,29 cal
+Beer,Lowenbrau,100ml,45 cal
+Beer,Malt Beer,100ml,37 cal
+Beer,Michelob Amber Bock,100ml,47 cal
+Beer,Michelob Lager,100ml,44 cal
+Beer,Michelob Light,100ml,32 cal
+Beer,Michelob Ultra,100ml,27 cal
+Beer,Michelob Ultra Amber,100ml,26 cal
+Beer,Michelob Ultra Lime Cactus,100ml,27 cal
+Beer,Miller Chill,100ml,31 cal
+Beer,Miller Genuine Draft,100ml,40 cal
+Beer,Miller High Life,100ml,40 cal
+Beer,Miller High Life Light,100ml,31 cal
+Beer,Miller Lite,100ml,27 cal
+Beer,Milwaukee’s Best,100ml,36 cal
+Beer,Milwaukee’s Best Light,100ml,28 cal
+Beer,Molson,100ml,42 cal
+Beer,Natural Ice,100ml,44 cal
+Beer,Natural Light,100ml,27 cal
+Beer,Newcastle,100ml,39 cal
+Beer,Non-alcoholic Beer,100ml,37 cal
+Beer,O’Doul’s (N.A.),100ml,19 cal
+Beer,Old Milwaukee,100ml,41 cal
+Beer,Old Milwaukee N.A.,100ml,16 cal
+Beer,Olde English,100ml,45 cal
+Beer,Pabst Blue Ribbon,100ml,41 cal
+Beer,Pale Ale,100ml,42 cal
+Beer,Pilsner,100ml,43 cal
+Beer,Porter,100ml,54 cal
+Beer,Redbridge (Gluten-free),100ml,45 cal
+Beer,Rolling Rock,100ml,37 cal
+Beer,Rolling Rock Light,100ml,30 cal
+Beer,Root Beer,100ml,41 cal
+Beer,Samuel Adams,100ml,45 cal
+Beer,Shock Top,100ml,47 cal
+Beer,Shock Top Raspberry Wheat,100ml,50 cal
+Beer,Sierra Nevada Strong,100ml,62 cal
+Beer,Sparks,100ml,74 cal
+Beer,St. Pauli Girl,100ml,42 cal
+Beer,Steel Reserve,100ml,63 cal
+Beer,Stout,100ml,51 cal
+Beer,Stout Beer,100ml,51 cal
+Beer,Strong Beer,100ml,55 cal
+Beer,Tilt,100ml,64 cal
+Beer,Wheat Beer,100ml,45 cal
+Non-AlcoholicDrinks&Beverages,ACE Drink,100ml,44 cal
+Non-AlcoholicDrinks&Beverages,Apple Spritzer,100ml,24 cal
+Non-AlcoholicDrinks&Beverages,Chai,100ml,0 cal
+Non-AlcoholicDrinks&Beverages,Chai Tea,100ml,0 cal
+Non-AlcoholicDrinks&Beverages,Chocolate Milk,100ml,89 cal
+Non-AlcoholicDrinks&Beverages,Chocolate Milkshake,100ml,125 cal
+Non-AlcoholicDrinks&Beverages,Club Mate,100ml,30 cal
+Non-AlcoholicDrinks&Beverages,Coca Cola,100ml,42 cal
+Non-AlcoholicDrinks&Beverages,Coffee,100ml,1 cal
+Non-AlcoholicDrinks&Beverages,Coke Zero,100ml,1 cal
+Non-AlcoholicDrinks&Beverages,Cola,100ml,42 cal
+Non-AlcoholicDrinks&Beverages,Crystal Light,100ml,263 cal
+Non-AlcoholicDrinks&Beverages,Diet Coke,100ml,1 cal
+Non-AlcoholicDrinks&Beverages,Egg Cream,100ml,94 cal
+Non-AlcoholicDrinks&Beverages,Egg Nog,100ml,88 cal
+Non-AlcoholicDrinks&Beverages,Elderflower Cordial,100ml,29 cal
+Non-AlcoholicDrinks&Beverages,Evian,100ml,0 cal
+Non-AlcoholicDrinks&Beverages,Gatorade,100ml,23 cal
+Non-AlcoholicDrinks&Beverages,Ginger Tea,100ml,0 cal
+Non-AlcoholicDrinks&Beverages,Hawaiian Punch,100ml,31 cal
+Non-AlcoholicDrinks&Beverages,Hi-C,100ml,49 cal
+Non-AlcoholicDrinks&Beverages,Horchata,100ml,54 cal
+Non-AlcoholicDrinks&Beverages,Hot Chocolate,100ml,89 cal
+Non-AlcoholicDrinks&Beverages,Ice Tea,100ml,27 cal
+Non-AlcoholicDrinks&Beverages,Iced Tea,100ml,27 cal
+Non-AlcoholicDrinks&Beverages,Karamalz,100ml,37 cal
+Non-AlcoholicDrinks&Beverages,Kombucha,100ml,13 cal
+Non-AlcoholicDrinks&Beverages,Kool-Aid,100ml,26 cal
+Non-AlcoholicDrinks&Beverages,Lassi,100ml,104 cal
+Non-AlcoholicDrinks&Beverages,Latte Macchiato,100ml,57 cal
+Non-AlcoholicDrinks&Beverages,Lemonade,100ml,42 cal
+Non-AlcoholicDrinks&Beverages,Malt Beer,100ml,37 cal
+Non-AlcoholicDrinks&Beverages,Milk,100ml,61 cal
+Non-AlcoholicDrinks&Beverages,Milkshake (dry),100g,329 cal
+Non-AlcoholicDrinks&Beverages,Milo,100g,409 cal
+Non-AlcoholicDrinks&Beverages,Nectar,100ml,53 cal
+Non-AlcoholicDrinks&Beverages,Nestea,100ml,36 cal
+Non-AlcoholicDrinks&Beverages,Non-alcoholic Beer,100ml,37 cal
+Non-AlcoholicDrinks&Beverages,Powerade,100ml,16 cal
+Non-AlcoholicDrinks&Beverages,Slurpee,100ml,4 cal
+Non-AlcoholicDrinks&Beverages,Slush Puppie,100ml,50 cal
+Non-AlcoholicDrinks&Beverages,Smoothie,100ml,37 cal
+Non-AlcoholicDrinks&Beverages,Soy Milk,100ml,45 cal
+Non-AlcoholicDrinks&Beverages,Strawberry Milkshake,100ml,113 cal
+Non-AlcoholicDrinks&Beverages,Tang,100g,381 cal
+Non-AlcoholicDrinks&Beverages,Tap Water,100ml,0 cal
+Non-AlcoholicDrinks&Beverages,Tea,100ml,1 cal
+Non-AlcoholicDrinks&Beverages,Vanilla Milkshake,100ml,149 cal
+Non-AlcoholicDrinks&Beverages,Volvic,100ml,0 cal
+Non-AlcoholicDrinks&Beverages,Water,100ml,0 cal
+Non-AlcoholicDrinks&Beverages,Yerba Mate,100ml,62 cal
+Soda&SoftDrinks,7up,100ml,44 cal
+Soda&SoftDrinks,Barq’s,100ml,46 cal
+Soda&SoftDrinks,Bitter Lemon,100ml,34 cal
+Soda&SoftDrinks,Canada Dry Ginger Ale,100ml,41 cal
+Soda&SoftDrinks,Cherry Coke,100ml,44 cal
+Soda&SoftDrinks,Coke,100ml,42 cal
+Soda&SoftDrinks,Coke Zero,100ml,0 cal
+Soda&SoftDrinks,Diet Cherry Coke,100ml,1 cal
+Soda&SoftDrinks,Diet Coke,100ml,1 cal
+Soda&SoftDrinks,Diet Dr. Pepper,100ml,0 cal
+Soda&SoftDrinks,Diet Pepsi,100ml,0 cal
+Soda&SoftDrinks,Diet Sunkist,100ml,0 cal
+Soda&SoftDrinks,Dr. Brown’s,100ml,53 cal
+Soda&SoftDrinks,Dr. Pepper,100ml,27 cal
+Soda&SoftDrinks,Fanta,100ml,39 cal
+Soda&SoftDrinks,Fanta Zero,100ml,0 cal
+Soda&SoftDrinks,Five Alive,100ml,35 cal
+Soda&SoftDrinks,Fresca,100ml,0 cal
+Soda&SoftDrinks,Full Throttle,100ml,110 cal
+Soda&SoftDrinks,Fuze,100ml,20 cal
+Soda&SoftDrinks,Fuze Tea,100ml,25 cal
+Soda&SoftDrinks,Gatorade,100ml,25 cal
+Soda&SoftDrinks,Ginger Ale,100ml,35 cal
+Soda&SoftDrinks,Ice Tea,100ml,27 cal
+Soda&SoftDrinks,Jolt Cola,100ml,44 cal
+Soda&SoftDrinks,Kool-Aid,100ml,26 cal
+Soda&SoftDrinks,Lemonade,100ml,42 cal
+Soda&SoftDrinks,Mello Yello,100ml,49 cal
+Soda&SoftDrinks,Minute Maid,100ml,46 cal
+Soda&SoftDrinks,Minute Maid Light,100ml,2 cal
+Soda&SoftDrinks,Mug Root Beer,100ml,42 cal
+Soda&SoftDrinks,Orange Soda,100ml,48 cal
+Soda&SoftDrinks,Pepsi,100ml,44 cal
+Soda&SoftDrinks,Pibb Xtra,100ml,40 cal
+Soda&SoftDrinks,Powerade,100ml,120 cal
+Soda&SoftDrinks,Schweppes Ginger Ale,100ml,38 cal
+Soda&SoftDrinks,Soda,100ml,53 cal
+Soda&SoftDrinks,Sprite,100ml,37 cal
+Soda&SoftDrinks,Sprite Zero,100ml,0 cal
+Soda&SoftDrinks,Squirt,100ml,44 cal
+Soda&SoftDrinks,Sunkist,100ml,25 cal
+Soda&SoftDrinks,Surge,100ml,48 cal
+Soda&SoftDrinks,TaB,100ml,0 cal
+Soda&SoftDrinks,Tonic Water,100ml,35 cal
+Soda&SoftDrinks,Vanilla Coke,100ml,45 cal
+Wine,Cabernet Sauvignon,100ml,77 cal
+Wine,Cava,100ml,76 cal
+Wine,Champagne,100ml,76 cal
+Wine,Chardonnay,100ml,85 cal
+Wine,Chenin Blanc,100ml,80 cal
+Wine,Chocolate Wine,100ml,256 cal
+Wine,Dry Red Wine,100ml,85 cal
+Wine,Gamay,100ml,78 cal
+Wine,Malbec,100ml,82 cal
+Wine,Malbec Wine,100ml,82 cal
+Wine,Marsala Wine,100ml,100 cal
+Wine,Merlot,100ml,83 cal
+Wine,Merlot Wine,100ml,83 cal
+Wine,Moscato Wine,100ml,76 cal
+Wine,Mulled Wine,100ml,196 cal
+Wine,Pinot Gris,100ml,83 cal
+Wine,Pinot Noir,100ml,75 cal
+Wine,Plum Wine,100ml,163 cal
+Wine,Port Wine,100ml,160 cal
+Wine,Prosecco,100ml,71 cal
+Wine,Red Wine,100ml,85 cal
+Wine,Red Wines,100ml,85 cal
+Wine,Riesling,100ml,80 cal
+Wine,Riesling Wine,100ml,80 cal
+Wine,Rose Wine,100ml,71 cal
+Wine,Sangria,100ml,132 cal
+Wine,Sauvignon Blanc,100ml,81 cal
+Wine,Sherry,100ml,116 cal
+Wine,Shiraz,100ml,71 cal
+Wine,Sparkling Wine,100ml,190 cal
+Wine,Sweet Red Wine,100ml,81 cal
+Wine,Sweet White Wine,100ml,82 cal
+Wine,Sweet Wines,100ml,83 cal
+Wine,Vermouth,100ml,108 cal
+Wine,White Wine,100ml,82 cal
+Wine,White Zinfandel,100ml,88 cal
+Wine,Wine,100ml,83 cal
+Wine,Yellow Tail Wine,100ml,71 cal
+Wine,Zinfandel,100ml,88 cal
+CerealProducts,Amaranth,100g,371 cal
+CerealProducts,Barley,100g,354 cal
+CerealProducts,Barley Groats,100g,100 cal
+CerealProducts,Brown Rice,100g,388 cal
+CerealProducts,Buckwheat,100g,343 cal
+CerealProducts,Buckwheat Groats,100g,346 cal
+CerealProducts,Corn Waffles,100g,274 cal
+CerealProducts,Cornmeal,100g,362 cal
+CerealProducts,Cornstarch,100g,381 cal
+CerealProducts,Couscous,100g,376 cal
+CerealProducts,Cracker,100g,502 cal
+CerealProducts,Durum Wheat Semolina,100g,397 cal
+CerealProducts,Flaxseed,100g,534 cal
+CerealProducts,Freekeh,100g,520 cal
+CerealProducts,Gluten,100g,370 cal
+CerealProducts,Grissini,100g,408 cal
+CerealProducts,Kamut,100g,337 cal
+CerealProducts,Millet,100g,378 cal
+CerealProducts,Millet Flour,100g,372 cal
+CerealProducts,Millet Gruel,100g,46 cal
+CerealProducts,Oat Bran,100g,246 cal
+CerealProducts,Pearl Barley,100g,352 cal
+CerealProducts,Polenta,100g,366 cal
+CerealProducts,Prawn Crackers,100g,527 cal
+CerealProducts,Pretzel Sticks,100g,380 cal
+CerealProducts,Quinoa,100g,368 cal
+CerealProducts,Rusk,100g,410 cal
+CerealProducts,Rye Bran,100g,281 cal
+CerealProducts,Sago,100g,354 cal
+CerealProducts,Savoury Biscuits,100g,347 cal
+CerealProducts,Shortbread,100g,502 cal
+CerealProducts,Spelt,100g,338 cal
+CerealProducts,Spelt Bran,100g,177 cal
+CerealProducts,Spelt Semolina,100g,360 cal
+CerealProducts,Sunflower Seeds,100g,584 cal
+CerealProducts,Tortilla,100g,237 cal
+CerealProducts,Tortilla Chips,100g,499 cal
+CerealProducts,Wheat Bran,100g,216 cal
+CerealProducts,Wheat Germ,100g,382 cal
+CerealProducts,Wheat Gluten,100g,325 cal
+CerealProducts,Wheat Semolina,100g,360 cal
+CerealProducts,Wheat Starch,100g,351 cal
+CerealProducts,Whole Grain Wheat,100g,339 cal
+CerealProducts,Wholegrain Oat,100g,375 cal
+"Oatmeal,Muesli&Cereals",Bran Flakes,100g,356 cal
+"Oatmeal,Muesli&Cereals",Cap’n Crunch,100g,404 cal
+"Oatmeal,Muesli&Cereals",Cheerios,100g,347 cal
+"Oatmeal,Muesli&Cereals",Chex,100g,387 cal
+"Oatmeal,Muesli&Cereals",Chocolate Cheerios,100g,367 cal
+"Oatmeal,Muesli&Cereals",Chocos,100g,380 cal
+"Oatmeal,Muesli&Cereals",Cinnamon Toast Crunch,100g,433 cal
+"Oatmeal,Muesli&Cereals",Coco Pops,100g,376 cal
+"Oatmeal,Muesli&Cereals",Cocoa Krispies,100g,386 cal
+"Oatmeal,Muesli&Cereals",Cocoa Pebbles,100g,367 cal
+"Oatmeal,Muesli&Cereals",Cocoa Puffs,100g,400 cal
+"Oatmeal,Muesli&Cereals",Cookie Crisp,100g,400 cal
+"Oatmeal,Muesli&Cereals",Corn Flakes,100g,357 cal
+"Oatmeal,Muesli&Cereals",Corn Pops,100g,377 cal
+"Oatmeal,Muesli&Cereals",Count Chocula,100g,407 cal
+"Oatmeal,Muesli&Cereals",Cracklin Oat Bran,100g,402 cal
+"Oatmeal,Muesli&Cereals",Cream of Wheat,100g,364 cal
+"Oatmeal,Muesli&Cereals",Crunchy Nut,100g,600 cal
+"Oatmeal,Muesli&Cereals",Crunchy Nut Cornflakes,100g,600 cal
+"Oatmeal,Muesli&Cereals",Fiber One,100g,267 cal
+"Oatmeal,Muesli&Cereals",Froot Loops,100g,379 cal
+"Oatmeal,Muesli&Cereals",Frosted Cheerios,100g,393 cal
+"Oatmeal,Muesli&Cereals",Frosted Flakes,100g,367 cal
+"Oatmeal,Muesli&Cereals",Frosted Mini-Wheats,100g,353 cal
+"Oatmeal,Muesli&Cereals",Frosties,100g,367 cal
+"Oatmeal,Muesli&Cereals",Fruity Pebbles,100g,400 cal
+"Oatmeal,Muesli&Cereals",Golden Grahams,100g,400 cal
+"Oatmeal,Muesli&Cereals",Grape-Nuts,100g,362 cal
+"Oatmeal,Muesli&Cereals",Honey Nut Cheerios,100g,393 cal
+"Oatmeal,Muesli&Cereals",Honey Smacks,100g,370 cal
+"Oatmeal,Muesli&Cereals",Honeycomb,100g,397 cal
+"Oatmeal,Muesli&Cereals",Just Right,100g,391 cal
+"Oatmeal,Muesli&Cereals",Kashi,100g,377 cal
+"Oatmeal,Muesli&Cereals",Kelloggs Corn Flakes,100g,357 cal
+"Oatmeal,Muesli&Cereals",Kix,100g,367 cal
+"Oatmeal,Muesli&Cereals",Krave,100g,372 cal
+"Oatmeal,Muesli&Cereals",Life Cereal,100g,375 cal
+"Oatmeal,Muesli&Cereals",Lucky Charms,100g,406 cal
+"Oatmeal,Muesli&Cereals",Malt-O-Meal,100g,51 cal
+"Oatmeal,Muesli&Cereals",Mini-Wheats,100g,353 cal
+"Oatmeal,Muesli&Cereals",Muesli,100g,336 cal
+"Oatmeal,Muesli&Cereals",Multigrain Cheerios,100g,380 cal
+"Oatmeal,Muesli&Cereals",Nutri-Grain,100g,351 cal
+"Oatmeal,Muesli&Cereals",Oatibix,100g,421 cal
+"Oatmeal,Muesli&Cereals",Oatmeal,100g,375 cal
+"Oatmeal,Muesli&Cereals",Peanut Butter Toast Crunch,100g,431 cal
+"Oatmeal,Muesli&Cereals",Post Raisin Bran,100g,322 cal
+"Oatmeal,Muesli&Cereals",Post Shredded Wheat,100g,347 cal
+"Oatmeal,Muesli&Cereals",Puff,100g,367 cal
+"Oatmeal,Muesli&Cereals",Puffed Rice,100g,383 cal
+"Oatmeal,Muesli&Cereals",Puffed Wheat,100g,367 cal
+"Oatmeal,Muesli&Cereals",Quaker Grits,100g,344 cal
+"Oatmeal,Muesli&Cereals",Quaker Oatmeal,100g,375 cal
+"Oatmeal,Muesli&Cereals",Quaker Oatmeal Squares,100g,400 cal
+"Oatmeal,Muesli&Cereals",Raisin Bran,100g,322 cal
+"Oatmeal,Muesli&Cereals",Raisin Bran Crunch,100g,355 cal
+"Oatmeal,Muesli&Cereals",Raisin Bran Crunch,100g,355 cal
+"Oatmeal,Muesli&Cereals",Raisin Nut Bran,100g,367 cal
+"Oatmeal,Muesli&Cereals",Ready Brek,100g,359 cal
+"Oatmeal,Muesli&Cereals",Rice Chex,100g,387 cal
+"Oatmeal,Muesli&Cereals",Rice Krispies,100g,394 cal
+"Oatmeal,Muesli&Cereals",Scooters,100g,367 cal
+"Oatmeal,Muesli&Cereals",Shredded Wheat,100g,340 cal
+"Oatmeal,Muesli&Cereals",Shreddies,100g,351 cal
+"Oatmeal,Muesli&Cereals",Smart Start,100g,371 cal
+"Oatmeal,Muesli&Cereals",Special K,100g,377 cal
+"Oatmeal,Muesli&Cereals",Special K Chocolatey Delight,100g,388 cal
+"Oatmeal,Muesli&Cereals",Special K Protein Plus,100g,375 cal
+"Oatmeal,Muesli&Cereals",Special K Red Berries,100g,345 cal
+"Oatmeal,Muesli&Cereals",Sugar Puffs,100g,379 cal
+"Oatmeal,Muesli&Cereals",Toasties,100g,361 cal
+"Oatmeal,Muesli&Cereals",Trix,100g,400 cal
+"Oatmeal,Muesli&Cereals",Weet-Bix,100g,353 cal
+"Oatmeal,Muesli&Cereals",Weetabix,100g,358 cal
+"Oatmeal,Muesli&Cereals",Weetos,100g,378 cal
+"Oatmeal,Muesli&Cereals",Wheaties,100g,367 cal
+Pasta&Noodles,Cannelloni,100g,146 cal
+Pasta&Noodles,Capellini,100g,353 cal
+Pasta&Noodles,Cappelletti,100g,164 cal
+Pasta&Noodles,Cellophane Noodles,100g,351 cal
+Pasta&Noodles,Cheese Tortellini,100g,291 cal
+Pasta&Noodles,Dampfnudel,100g,274 cal
+Pasta&Noodles,Dumpling Dough,100g,99 cal
+Pasta&Noodles,Durum Wheat Semolina,100g,397 cal
+Pasta&Noodles,Egg Noodles,100g,384 cal
+Pasta&Noodles,Farfalle,100g,358 cal
+Pasta&Noodles,Fettuccine,100g,353 cal
+Pasta&Noodles,Fusilli,100g,352 cal
+Pasta&Noodles,Glass Noodles,100g,192 cal
+Pasta&Noodles,Lasagne Sheets,100g,271 cal
+Pasta&Noodles,Linguine,100g,357 cal
+Pasta&Noodles,Low Carb Pasta,100g,282 cal
+Pasta&Noodles,Macaroni,100g,370 cal
+Pasta&Noodles,Manicotti,100g,357 cal
+Pasta&Noodles,Mostaccioli,100g,184 cal
+Pasta&Noodles,Orecchiette,100g,370 cal
+Pasta&Noodles,Orzo,100g,357 cal
+Pasta&Noodles,Penne,100g,351 cal
+Pasta&Noodles,Penne Rigate,100g,370 cal
+Pasta&Noodles,Pierogi,100g,200 cal
+Pasta&Noodles,Ravioli,100g,77 cal
+Pasta&Noodles,Rigatoni,100g,353 cal
+Pasta&Noodles,Rotini,100g,353 cal
+Pasta&Noodles,Shells,100g,353 cal
+Pasta&Noodles,Shirataki Noodles,100g,18 cal
+Pasta&Noodles,Soy Noodles,100g,216 cal
+Pasta&Noodles,Spaetzle,100g,368 cal
+Pasta&Noodles,Spaghetti,100g,370 cal
+Pasta&Noodles,Spinach Tortellini,100g,314 cal
+Pasta&Noodles,Spirelli,100g,367 cal
+Pasta&Noodles,Tagliatelle,100g,370 cal
+Pasta&Noodles,Tortellini,100g,291 cal
+Pasta&Noodles,Vermicelli,100g,368 cal
+Pasta&Noodles,Whole Grain Noodles,100g,347 cal
+Pasta&Noodles,Whole Grain Spaghetti,100g,351 cal
+Pasta&Noodles,Ziti,100g,352 cal
+Dishes&Meals,Baby Back Ribs,100g,259 cal
+Dishes&Meals,Bacon and Eggs,100g,252 cal
+Dishes&Meals,Baked Beans,100g,94 cal
+Dishes&Meals,Baked Chicken,100g,164 cal
+Dishes&Meals,BBQ Ribs,100g,255 cal
+Dishes&Meals,Beef Stew,100g,95 cal
+Dishes&Meals,Biryani,100g,176 cal
+Dishes&Meals,Black Pudding,100g,253 cal
+Dishes&Meals,Black Rice,100g,323 cal
+Dishes&Meals,BLT,100g,247 cal
+Dishes&Meals,Brown Rice,100g,362 cal
+Dishes&Meals,Burrito,100g,163 cal
+Dishes&Meals,Butter Chicken,100g,140 cal
+Dishes&Meals,California Roll,100g,93 cal
+Dishes&Meals,Chicken Caesar Salad,100g,127 cal
+Dishes&Meals,Chicken Fried Steak,100g,151 cal
+Dishes&Meals,Chicken Marsala,100g,96 cal
+Dishes&Meals,Chicken Parmesan,100g,110 cal
+Dishes&Meals,Chicken Pot Pie,100g,223 cal
+Dishes&Meals,Chicken Tikka Masala,100g,81 cal
+Dishes&Meals,Chili con Carne,100g,105 cal
+Dishes&Meals,Chimichanga,100g,232 cal
+Dishes&Meals,Cobb Salad,100g,118 cal
+Dishes&Meals,Collard Greens,100g,28 cal
+Dishes&Meals,Corn Dog,100g,250 cal
+Dishes&Meals,Corned Beef Hash,100g,164 cal
+Dishes&Meals,Cottage Pie,100g,139 cal
+Dishes&Meals,Dal,100g,330 cal
+Dishes&Meals,Deviled Eggs,100g,201 cal
+Dishes&Meals,Dim Sum,100g,193 cal
+Dishes&Meals,Dosa,100g,66 cal
+Dishes&Meals,Enchiladas,100g,168 cal
+Dishes&Meals,Fajita,100g,117 cal
+Dishes&Meals,Fish and Chips,100g,195 cal
+Dishes&Meals,Fried Rice,100g,186 cal
+Dishes&Meals,Fried Shrimp,100g,277 cal
+Dishes&Meals,Grilled Cheese Sandwich,100g,288 cal
+Dishes&Meals,Ham and Cheese Sandwich,100g,241 cal
+Dishes&Meals,Hummus,100g,177 cal
+Dishes&Meals,Jambalaya,100g,100 cal
+Dishes&Meals,Kebab,100g,215 cal
+Dishes&Meals,Lasagne,100g,132 cal
+Dishes&Meals,Mac and Cheese,100g,370 cal
+Dishes&Meals,Macaroni and Cheese,100g,370 cal
+Dishes&Meals,Mashed Potatoes,100g,83 cal
+Dishes&Meals,Meat Pie,100g,242 cal
+Dishes&Meals,Meatloaf,100g,254 cal
+Dishes&Meals,Naan,100g,310 cal
+Dishes&Meals,Orange Chicken,100g,259 cal
+Dishes&Meals,Pad Thai,100g,150 cal
+Dishes&Meals,Paella,100g,156 cal
+Dishes&Meals,Paratha,100g,325 cal
+Dishes&Meals,Pea Soup,100g,75 cal
+Dishes&Meals,Peanut Butter Sandwich,100g,408 cal
+Dishes&Meals,Peking Duck,100g,225 cal
+Dishes&Meals,Philly Cheese Steak,100g,250 cal
+Dishes&Meals,Pizza,100g,267 cal
+Dishes&Meals,Pork Chop,100g,225 cal
+Dishes&Meals,Potato Salad,100g,143 cal
+Dishes&Meals,Pulled Pork Sandwich,100g,211 cal
+Dishes&Meals,Ramen,100g,447 cal
+Dishes&Meals,Ravioli,100g,203 cal
+Dishes&Meals,Reuben Sandwich,100g,208 cal
+Dishes&Meals,Roast Beef,100g,111 cal
+Dishes&Meals,Roast Dinner,100g,198 cal
+Dishes&Meals,Samosa,100g,214 cal
+Dishes&Meals,Sausage Roll,100g,350 cal
+Dishes&Meals,Sausage Rolls,100g,297 cal
+Dishes&Meals,Shepherds Pie,100g,70 cal
+Dishes&Meals,Shrimp Cocktail,100g,464 cal
+Dishes&Meals,Sloppy Joe,100g,71 cal
+Dishes&Meals,Sloppy Joes,100g,154 cal
+Dishes&Meals,Spaghetti Bolognese,100g,132 cal
+Dishes&Meals,Spring Roll,100g,250 cal
+Dishes&Meals,Spring Rolls,100g,250 cal
+Dishes&Meals,Taco,100g,217 cal
+Dishes&Meals,Tandoori Chicken,100g,113 cal
+Dishes&Meals,Yorkshire Pudding,100g,553 cal
+Soups,Alphabet Soup,100g,25 cal
+Soups,Bean Stew,100g,133 cal
+Soups,Beef Bouillon,100g,3 cal
+Soups,Beef Noodle Soup,100g,34 cal
+Soups,Beef Soup,100g,33 cal
+Soups,Bouillon,100g,16 cal
+Soups,Broccoli Cheese Soup,100g,87 cal
+Soups,Broccoli Soup,100g,87 cal
+Soups,Cabbage Soup,100g,28 cal
+Soups,Carrot Ginger Soup,100g,25 cal
+Soups,Carrot Soup,100g,25 cal
+Soups,Chicken Bouillon,100g,4 cal
+Soups,Chicken Broth,100g,16 cal
+Soups,Chicken Gumbo Soup,100g,23 cal
+Soups,Chicken Noodle Soup,100g,25 cal
+Soups,Chicken Stock,100g,16 cal
+Soups,Chicken Vegetable Soup,100g,31 cal
+Soups,Chicken with Rice Soup,100g,24 cal
+Soups,Cream of Asparagus Soup,100g,35 cal
+Soups,Cream of Broccoli Soup,100g,45 cal
+Soups,Cream of Celery Soup,100g,37 cal
+Soups,Cream of Chicken Soup,100g,48 cal
+Soups,Cream of Mushroom Soup,100g,39 cal
+Soups,Cream of Onion Soup,100g,44 cal
+Soups,Cream of Potato Soup,100g,30 cal
+Soups,Creamy Chicken Noodle Soup,100g,23 cal
+Soups,French Onion Soup,100g,23 cal
+Soups,Golden Mushroom Soup,100g,65 cal
+Soups,Goulash,100g,1009 cal
+Soups,Instant Ramen,100g,436 cal
+Soups,Lentil Soup,100g,56 cal
+Soups,Lobster Bisque Soup,100g,100 cal
+Soups,Meatball Soup,100g,49 cal
+Soups,Minestrone,100g,34 cal
+Soups,Mushroom Soup,100g,35 cal
+Soups,Noodle Soup,100g,34 cal
+Soups,Onion Soup,100g,23 cal
+Soups,Oxtail Soup,100g,28 cal
+Soups,Pea Soup,100g,75 cal
+Soups,Potato Soup,100g,80 cal
+Soups,Pumpkin Soup,100g,29 cal
+Soups,Ramen,100g,436 cal
+Soups,Scotch Broth,100g,33 cal
+Soups,Succotash,100g,115 cal
+Soups,Thai Soup,100g,60 cal
+Soups,Tomato Rice Soup,100g,47 cal
+Soups,Tomato Soup,100g,30 cal
+Soups,Vegetable Beef Soup,100g,31 cal
+Soups,Vegetable Broth,100g,5 cal
+Soups,Vegetable Soup,100g,28 cal
+Soups,Vegetable Stock,100g,5 cal
+Soups,Wedding Soup,100g,53 cal
+Legumes,Azuki Bean,100g,124 cal
+Legumes,Bamboo Shoots,100g,27 cal
+Legumes,Bean Curd,100g,76 cal
+Legumes,Bean Sprouts,100g,30 cal
+Legumes,Bengal Gram,100g,364 cal
+Legumes,Black Beans,100g,341 cal
+Legumes,Black Chickpeas,100g,364 cal
+Legumes,Black Gram,100g,341 cal
+Legumes,Brown Lentil,100g,353 cal
+Legumes,Butternut,100g,612 cal
+Legumes,Chickpeas,100g,364 cal
+Legumes,Chili Bean,100g,97 cal
+Legumes,Dal,100g,230 cal
+Legumes,Deep-Fried Tofu,100g,271 cal
+Legumes,Extra-Firm Tofu,100g,91 cal
+Legumes,Firm Tofu,100g,70 cal
+Legumes,Flageolet,100g,85 cal
+Legumes,Fried Bean Curd,100g,271 cal
+Legumes,Green Beans,100g,31 cal
+Legumes,Green Gram,100g,347 cal
+Legumes,Green Lentil,100g,257 cal
+Legumes,Kidney Beans,100g,337 cal
+Legumes,Lentils,100g,353 cal
+Legumes,Lima Beans,100g,71 cal
+Legumes,Marron,100g,210 cal
+Legumes,Miso,100g,199 cal
+Legumes,Mung Beans,100g,12 cal
+Legumes,Natto,100g,212 cal
+Legumes,Navy Bean,100g,337 cal
+Legumes,Okara,100g,77 cal
+Legumes,Okra,100g,33 cal
+Legumes,Peanuts,100g,567 cal
+Legumes,Peas,100g,42 cal
+Legumes,Pecan,100g,691 cal
+Legumes,Pinto Beans,100g,347 cal
+Legumes,Puy Lentils,100g,345 cal
+Legumes,Rajma,100g,140 cal
+Legumes,Red Beans,100g,124 cal
+Legumes,Red Kidney Bean,100g,337 cal
+Legumes,Red Lentils,100g,329 cal
+Legumes,Refried Beans,100g,91 cal
+Legumes,Roasted Soybeans,100g,471 cal
+Legumes,Silken Tofu,100g,55 cal
+Legumes,Soft Tofu,100g,61 cal
+Legumes,Soy Cheese,100g,235 cal
+Legumes,Soy Mayonnaise,100g,322 cal
+Legumes,Soy Nut Butter,100g,562 cal
+Legumes,Soy Nuts,100g,471 cal
+Legumes,Soy Yogurt,100g,66 cal
+Legumes,Soya Cheese,100g,235 cal
+Legumes,Soybeans,100g,147 cal
+Legumes,Soynut Butter,100g,562 cal
+Legumes,Sugar Peas,100g,42 cal
+Legumes,Sweet Peas,100g,48 cal
+Legumes,Tempeh,100g,193 cal
+Legumes,Textured Soy Protein,100g,571 cal
+Legumes,Textured Vegetable Protein,100g,333 cal
+Legumes,Tofu,100g,76 cal
+Legumes,White Beans,100g,336 cal
+Legumes,Yam Bean,100g,38 cal
+Legumes,Yellow Lentils,100g,304 cal
+Legumes,Yuba,100g,176 cal
+Nuts&Seeds,Acorn,100g,387 cal
+Nuts&Seeds,Alfalfa Sprouts,100g,23 cal
+Nuts&Seeds,Almonds,100g,575 cal
+Nuts&Seeds,Beechnut,100g,576 cal
+Nuts&Seeds,Brazil Nuts,100g,656 cal
+Nuts&Seeds,Breadfruit,100g,191 cal
+Nuts&Seeds,Butternut,100g,612 cal
+Nuts&Seeds,Cashew,100g,553 cal
+Nuts&Seeds,Chestnut,100g,213 cal
+Nuts&Seeds,Chia Seeds,100g,486 cal
+Nuts&Seeds,Coconut,100g,354 cal
+Nuts&Seeds,Cotton Seeds,100g,506 cal
+Nuts&Seeds,Flaxseed,100g,534 cal
+Nuts&Seeds,Ginkgo Nuts,100g,182 cal
+Nuts&Seeds,Goa Bean,100g,409 cal
+Nuts&Seeds,Hazelnut,100g,628 cal
+Nuts&Seeds,Hickory Nuts,100g,657 cal
+Nuts&Seeds,Lima Beans,100g,71 cal
+Nuts&Seeds,Lotus Seed,100g,89 cal
+Nuts&Seeds,Macadamia Nuts,100g,718 cal
+Nuts&Seeds,Peanuts,100g,567 cal
+Nuts&Seeds,Peas,100g,81 cal
+Nuts&Seeds,Pecan Nuts,100g,691 cal
+Nuts&Seeds,Pecans,100g,691 cal
+Nuts&Seeds,Pili Nuts,100g,719 cal
+Nuts&Seeds,Pine Nuts,100g,673 cal
+Nuts&Seeds,Pinto Beans,100g,347 cal
+Nuts&Seeds,Pistachios,100g,562 cal
+Nuts&Seeds,Poppy Seeds,100g,525 cal
+Nuts&Seeds,Pumpkin Seeds,100g,559 cal
+Nuts&Seeds,Radish Seeds,100g,43 cal
+Nuts&Seeds,Safflower Seeds,100g,517 cal
+Nuts&Seeds,Sesame Seeds,100g,573 cal
+Nuts&Seeds,Smoked Almonds,100g,575 cal
+Nuts&Seeds,Soy Beans,100g,147 cal
+Nuts&Seeds,Sunflower Seeds,100g,584 cal
+Nuts&Seeds,Sweet Chestnut,100g,194 cal
+Nuts&Seeds,Walnuts,100g,654 cal
+Nuts&Seeds,Watermelon,100g,30 cal
+Oils&Fats,Almond Oil,100ml,882 cal
+Oils&Fats,Avocado Oil,100ml,857 cal
+Oils&Fats,Butter,100g,720 cal
+Oils&Fats,Canola Oil,100ml,884 cal
+Oils&Fats,Coconut Oil,100ml,857 cal
+Oils&Fats,Cod Liver Oil,100ml,1000 cal
+Oils&Fats,Corn Oil,100ml,800 cal
+Oils&Fats,Cottonseed Oil,100ml,882 cal
+Oils&Fats,Flaxseed Oil,100ml,884 cal
+Oils&Fats,Ghee,100g,120 cal
+Oils&Fats,Goose Fat,100g,898 cal
+Oils&Fats,Grape Seed Oil,100ml,884 cal
+Oils&Fats,Hemp Oil,100ml,807 cal
+Oils&Fats,Herring Oil,100ml,902 cal
+Oils&Fats,I can\’t believe it\’s not Butter,100g,357 cal
+Oils&Fats,Lard,100g,902 cal
+Oils&Fats,Macadamia Oil,100ml,819 cal
+Oils&Fats,Margarine,100g,717 cal
+Oils&Fats,Mustard Oil,100ml,884 cal
+Oils&Fats,Olive Oil,100ml,884 cal
+Oils&Fats,Palm Oil,100ml,882 cal
+Oils&Fats,Peanut Oil,100ml,857 cal
+Oils&Fats,Real Butter,100g,720 cal
+Oils&Fats,Rice Bran Oil,100ml,889 cal
+Oils&Fats,Safflower Oil,100ml,857 cal
+Oils&Fats,Sardine Oil,100ml,902 cal
+Oils&Fats,Sesame Oil,100ml,884 cal
+Oils&Fats,Soybean Oil,100ml,889 cal
+Oils&Fats,Sunflower Oil,100ml,884 cal
+Oils&Fats,Walnut Oil,100ml,889 cal
+VegetableOils,Almond Oil,100ml,882 cal
+VegetableOils,Apricot Kernel Oil,100ml,889 cal
+VegetableOils,Argan Oil,100ml,896 cal
+VegetableOils,Avocado Oil,100ml,857 cal
+VegetableOils,Babassu Oil,100ml,884 cal
+VegetableOils,Canola Oil,100ml,884 cal
+VegetableOils,Coconut Oil,100ml,857 cal
+VegetableOils,Corn Oil,100ml,800 cal
+VegetableOils,Cottonseed Oil,100ml,882 cal
+VegetableOils,Flaxseed Oil,100ml,884 cal
+VegetableOils,Grape Seed Oil,100ml,884 cal
+VegetableOils,Hazelnut Oil,100ml,889 cal
+VegetableOils,Linseed Oil,100ml,837 cal
+VegetableOils,Menhaden Oil,100ml,911 cal
+VegetableOils,Mustard Oil,100ml,884 cal
+VegetableOils,Oat Oil,100ml,884 cal
+VegetableOils,Olive Oil,100ml,800 cal
+VegetableOils,Palm Kernel Oil,100ml,882 cal
+VegetableOils,Palm Oil,100ml,882 cal
+VegetableOils,Peanut Oil,100ml,857 cal
+VegetableOils,Poppy Seed Oil,100ml,884 cal
+VegetableOils,Pumpkin Seed Oil,100ml,880 cal
+VegetableOils,Rice Bran Oil,100ml,889 cal
+VegetableOils,Safflower Oil,100ml,857 cal
+VegetableOils,Salmon Oil,100ml,911 cal
+VegetableOils,Sesame Oil,100ml,889 cal
+VegetableOils,Shea Oil,100ml,884 cal
+VegetableOils,Soy Oil,100ml,882 cal
+VegetableOils,Sunflower Oil,100ml,884 cal
+VegetableOils,Tomato Seed Oil,100ml,884 cal
+VegetableOils,Vegetable Oil,100ml,800 cal
+VegetableOils,Walnut Oil,100ml,889 cal
+VegetableOils,Wheat Germ Oil,100ml,929 cal
+BakingIngredients,Agar-Agar,100g,26 cal
+BakingIngredients,Agave Syrup,100ml,310 cal
+BakingIngredients,All Purpose Flour,100ml,364 cal
+BakingIngredients,Almond Extract,100ml,258 cal
+BakingIngredients,Almonds,100g,529 cal
+BakingIngredients,Apple Pie Filling,100g,100 cal
+BakingIngredients,Baking Powder,100g,53 cal
+BakingIngredients,Baking Soda,100g,0 cal
+BakingIngredients,Bread Flour,100g,361 cal
+BakingIngredients,Brittle,100g,592 cal
+BakingIngredients,Brown Sugar,100g,395 cal
+BakingIngredients,Buttermilk,100ml,62 cal
+BakingIngredients,Butterscotch Chips,100g,539 cal
+BakingIngredients,Cake Flour,100g,362 cal
+BakingIngredients,Candied Orange Peel,100g,97 cal
+BakingIngredients,Cane Sugar,100g,387 cal
+BakingIngredients,Chocolate Chips,100g,467 cal
+BakingIngredients,Chocolate Sprinkles,100g,500 cal
+BakingIngredients,Cocoa Powder,100g,228 cal
+BakingIngredients,Coconut Flakes,100g,456 cal
+BakingIngredients,Coconut Milk,100ml,50 cal
+BakingIngredients,Corn Flour,100g,361 cal
+BakingIngredients,Corn Syrup,100ml,281 cal
+BakingIngredients,Cornmeal,100g,362 cal
+BakingIngredients,Cornstarch,100g,381 cal
+BakingIngredients,Couverture,100g,600 cal
+BakingIngredients,Cream Cheese,100g,54 cal
+BakingIngredients,Cream of Tartar,100g,258 cal
+BakingIngredients,Crystallized Ginger,100g,335 cal
+BakingIngredients,Custard Powder,100g,337 cal
+BakingIngredients,Dark Rum,100ml,216 cal
+BakingIngredients,Dextrose,100g,375 cal
+BakingIngredients,Dried Apricots,100g,241 cal
+BakingIngredients,Dried Cranberries,100g,308 cal
+BakingIngredients,Dried Figs,100g,249 cal
+BakingIngredients,Dried Prunes,100g,107 cal
+BakingIngredients,Duck Egg,100g,185 cal
+BakingIngredients,Egg,100g,97 cal
+BakingIngredients,Egg Nog,100g,88 cal
+BakingIngredients,Egg White,100g,13 cal
+BakingIngredients,Egg Yolk,100g,322 cal
+BakingIngredients,Evaporated Milk,100g,134 cal
+BakingIngredients,Flour,100g,364 cal
+BakingIngredients,Fructose,100g,368 cal
+BakingIngredients,Gelatin,100g,335 cal
+BakingIngredients,Glucose,100g,286 cal
+BakingIngredients,Glucose Syrup,100g,387 cal
+BakingIngredients,Granulated Sugar,100g,387 cal
+BakingIngredients,Ground Cinnamon,100g,247 cal
+BakingIngredients,Hazelnuts,100g,628 cal
+BakingIngredients,Heavy Cream,100g,345 cal
+BakingIngredients,Jaggery,100g,383 cal
+BakingIngredients,Lemon Pie Filling,100g,143 cal
+BakingIngredients,Malt Powder,100g,361 cal
+BakingIngredients,Malted Milk,100g,405 cal
+BakingIngredients,Maltitol,100g,210 cal
+BakingIngredients,Maltodextrin,100g,375 cal
+BakingIngredients,Maltose,100g,344 cal
+BakingIngredients,Maple Syrup,100ml,270 cal
+BakingIngredients,Molasses,100g,290 cal
+BakingIngredients,Nonpareils,100g,475 cal
+BakingIngredients,Peppermint Extract,100ml,0 cal
+BakingIngredients,Poppy Seeds,100g,525 cal
+BakingIngredients,Powdered Milk,100g,496 cal
+BakingIngredients,Powdered Sugar,100g,389 cal
+BakingIngredients,Protein Powder,100g,411 cal
+BakingIngredients,Raisins,100g,474 cal
+BakingIngredients,Rice Milk,100ml,49 cal
+BakingIngredients,Rock Sugar,100g,625 cal
+BakingIngredients,Rolled Oats,100g,384 cal
+BakingIngredients,Rum,100ml,246 cal
+BakingIngredients,Semolina Flour,100g,350 cal
+BakingIngredients,Sesame Seeds,100g,573 cal
+BakingIngredients,Shredded Coconut,100g,501 cal
+BakingIngredients,Sorbitol,100g,375 cal
+BakingIngredients,Soy Milk,100ml,41 cal
+BakingIngredients,Soy Protein Powder,100g,338 cal
+BakingIngredients,Sprinkles,100g,500 cal
+BakingIngredients,Starch,100g,381 cal
+BakingIngredients,Strawberry Preserves,100g,278 cal
+BakingIngredients,Sucrose,100g,387 cal
+BakingIngredients,Sugar,100g,405 cal
+BakingIngredients,Sunflower Seeds,100g,117 cal
+BakingIngredients,Sweetened Condensed Milk,100ml,321 cal
+BakingIngredients,Sweetener,100g,360 cal
+BakingIngredients,Unsalted Butter,100g,717 cal
+BakingIngredients,Vanilla Extract,100ml,288 cal
+BakingIngredients,Vanilla Sugar,100g,357 cal
+BakingIngredients,Vegetable Oil,100g,884 cal
+BakingIngredients,Vegetable Shortening,100g,884 cal
+BakingIngredients,Walnuts,100g,131 cal
+BakingIngredients,Whole Milk,100ml,61 cal
+BakingIngredients,Whole Wheat Flour,100g,340 cal
+BakingIngredients,Xylitol,100g,240 cal
+BakingIngredients,Yeast (dry),100g,325 cal
+Fish&Seafood,Anchovy,100g,131 cal
+Fish&Seafood,Bluefish,100g,159 cal
+Fish&Seafood,Bream,100g,135 cal
+Fish&Seafood,Butterfish,100g,187 cal
+Fish&Seafood,Calamari,100g,175 cal
+Fish&Seafood,Carp,100g,162 cal
+Fish&Seafood,Caviar,100g,264 cal
+Fish&Seafood,Clam,100g,148 cal
+Fish&Seafood,Cod,100g,105 cal
+Fish&Seafood,Crawfish,100g,82 cal
+Fish&Seafood,Crayfish,100g,87 cal
+Fish&Seafood,Eel,100g,236 cal
+Fish&Seafood,Fish Fingers,100g,290 cal
+Fish&Seafood,Fish Sticks,100g,290 cal
+Fish&Seafood,Flounder,100g,86 cal
+Fish&Seafood,Grouper,100g,118 cal
+Fish&Seafood,Haddock,100g,90 cal
+Fish&Seafood,Hake,100g,71 cal
+Fish&Seafood,Halibut,100g,111 cal
+Fish&Seafood,Herring,100g,203 cal
+Fish&Seafood,Hoki,100g,121 cal
+Fish&Seafood,Kipper,100g,217 cal
+Fish&Seafood,Ling,100g,109 cal
+Fish&Seafood,Lobster,100g,89 cal
+Fish&Seafood,Mackerel,100g,262 cal
+Fish&Seafood,Milkfish,100g,190 cal
+Fish&Seafood,Monkfish,100g,97 cal
+Fish&Seafood,Mullet,100g,150 cal
+Fish&Seafood,Mussel,100g,172 cal
+Fish&Seafood,Octopus,100g,164 cal
+Fish&Seafood,Pickerel,100g,111 cal
+Fish&Seafood,Pickled Herring,100g,262 cal
+Fish&Seafood,Pike,100g,113 cal
+Fish&Seafood,Plaice,100g,91 cal
+Fish&Seafood,Pollack,100g,111 cal
+Fish&Seafood,Red Snapper,100g,128 cal
+Fish&Seafood,Redfish,100g,94 cal
+Fish&Seafood,Rollmops,100g,171 cal
+Fish&Seafood,Salmon,100g,206 cal
+Fish&Seafood,Sardines,100g,208 cal
+Fish&Seafood,Scallops,100g,111 cal
+Fish&Seafood,Scampi,100g,84 cal
+Fish&Seafood,Sea Bass,100g,124 cal
+Fish&Seafood,Shad,100g,252 cal
+Fish&Seafood,Shark,100g,130 cal
+Fish&Seafood,Smelt,100g,124 cal
+Fish&Seafood,Sole,100g,86 cal
+Fish&Seafood,Squid,100g,92 cal
+Fish&Seafood,Sturgeon,100g,135 cal
+Fish&Seafood,Sushi,100g,150 cal
+Fish&Seafood,Swordfish,100g,172 cal
+Fish&Seafood,Triggerfish,100g,93 cal
+Fish&Seafood,Trout,100g,190 cal
+Fish&Seafood,Tuna,100g,132 cal
+Fish&Seafood,Tuna Salad,100g,187 cal
+Fish&Seafood,Turbot,100g,122 cal
+Fish&Seafood,Wahoo,100g,167 cal
+Fish&Seafood,Whitefish,100g,172 cal
+Fish&Seafood,Whiting,100g,116 cal
+Fish&Seafood,Zander,100g,84 cal
+Herbs&Spices,Almond Extract,100ml,374 cal
+Herbs&Spices,Anise,100g,337 cal
+Herbs&Spices,Anise Seed,100g,337 cal
+Herbs&Spices,Arrowroot,100g,65 cal
+Herbs&Spices,Arugula,100g,25 cal
+Herbs&Spices,Balsamic Vinegar,100ml,88 cal
+Herbs&Spices,Basil,100g,233 cal
+Herbs&Spices,Black Pepper,100g,251 cal
+Herbs&Spices,Black Sesame Seeds,100g,573 cal
+Herbs&Spices,Broth,100g,100 cal
+Herbs&Spices,Capers,100g,23 cal
+Herbs&Spices,Caraway Seeds,100g,333 cal
+Herbs&Spices,Cardamom,100g,311 cal
+Herbs&Spices,Cassava,100g,160 cal
+Herbs&Spices,Cayenne Pepper,100g,318 cal
+Herbs&Spices,Chard,100g,19 cal
+Herbs&Spices,Chicory Greens,100g,23 cal
+Herbs&Spices,Chicory Roots,100g,72 cal
+Herbs&Spices,Chili,100g,282 cal
+Herbs&Spices,Chili Powder,100g,282 cal
+Herbs&Spices,Chives,100g,30 cal
+Herbs&Spices,Cider Vinegar,100ml,21 cal
+Herbs&Spices,Cilantro,100g,23 cal
+Herbs&Spices,Cinnamon,100g,247 cal
+Herbs&Spices,Cloves,100g,274 cal
+Herbs&Spices,Coriander,100g,23 cal
+Herbs&Spices,Cream of Tartar,100g,258 cal
+Herbs&Spices,Cress,100g,32 cal
+Herbs&Spices,Crystallized Ginger,100g,335 cal
+Herbs&Spices,Cumin,100g,375 cal
+Herbs&Spices,Cumin Seed,100g,375 cal
+Herbs&Spices,Curry,100g,325 cal
+Herbs&Spices,Dandelion,100g,45 cal
+Herbs&Spices,Dill,100g,43 cal
+Herbs&Spices,Dill Weed,100g,43 cal
+Herbs&Spices,Fennel,100g,31 cal
+Herbs&Spices,Fennel Seed,100g,345 cal
+Herbs&Spices,Fenugreek,100g,323 cal
+Herbs&Spices,Garlic,100g,149 cal
+Herbs&Spices,Garlic Powder,100g,331 cal
+Herbs&Spices,Garlic Salt,100g,0 cal
+Herbs&Spices,Ginger,100g,80 cal
+Herbs&Spices,Grape Leaves,100g,93 cal
+Herbs&Spices,Ground Ginger,100g,335 cal
+Herbs&Spices,Horseradish,100g,48 cal
+Herbs&Spices,Hot Pepper,100g,318 cal
+Herbs&Spices,Iodized Salt,100g,0 cal
+Herbs&Spices,Jalapeno,100g,13 cal
+Herbs&Spices,Juniper,100g,45 cal
+Herbs&Spices,Lemon Grass,100g,99 cal
+Herbs&Spices,Licorice,100g,375 cal
+Herbs&Spices,Maggi,100ml,104 cal
+Herbs&Spices,Marjoram,100g,271 cal
+Herbs&Spices,Minced Onion,100g,40 cal
+Herbs&Spices,Mint,100g,70 cal
+Herbs&Spices,Mustard Seed,100g,508 cal
+Herbs&Spices,Nutmeg,100g,525 cal
+Herbs&Spices,Okra,100g,33 cal
+Herbs&Spices,Onion,100g,40 cal
+Herbs&Spices,Onion Powder,100g,341 cal
+Herbs&Spices,Orange Peel,100g,97 cal
+Herbs&Spices,Oregano,100g,265 cal
+Herbs&Spices,Paprika,100g,282 cal
+Herbs&Spices,Parsley,100g,36 cal
+Herbs&Spices,Parsnip,100g,75 cal
+Herbs&Spices,Pepper,100g,251 cal
+Herbs&Spices,Poppy Seed,100g,525 cal
+Herbs&Spices,Poultry Seasoning,100g,307 cal
+Herbs&Spices,Pumpkin Pie Spice,100g,342 cal
+Herbs&Spices,Red Pepper,100g,251 cal
+Herbs&Spices,Red Wine Vinegar,100g,19 cal
+Herbs&Spices,Rosemary,100g,131 cal
+Herbs&Spices,Saffron,100g,310 cal
+Herbs&Spices,Sage,100g,315 cal
+Herbs&Spices,Salt,100g,0 cal
+Herbs&Spices,Savory,100g,272 cal
+Herbs&Spices,Sea Salt,100g,0 cal
+Herbs&Spices,Serrano Pepper,100g,32 cal
+Herbs&Spices,Sesame Seeds,100g,573 cal
+Herbs&Spices,Stevia,100g,0 cal
+Herbs&Spices,Tamarind,100g,239 cal
+Herbs&Spices,Taro,100g,112 cal
+Herbs&Spices,Tarragon,100g,295 cal
+Herbs&Spices,Thyme,100g,276 cal
+Herbs&Spices,Turmeric,100g,354 cal
+Herbs&Spices,Vanilla Bean,100g,250 cal
+Herbs&Spices,Vanilla Extract,100ml,288 cal
+Herbs&Spices,Vinegar,100ml,18 cal
+Herbs&Spices,White Pepper,100g,296 cal
+Herbs&Spices,Yam,100g,118 cal
+"Pastries,Breads&Rolls",Apple Pie,100g,237 cal
+"Pastries,Breads&Rolls",Apple Turnover,100g,348 cal
+"Pastries,Breads&Rolls",Bagel,100g,257 cal
+"Pastries,Breads&Rolls",Baguette,100g,274 cal
+"Pastries,Breads&Rolls",Banana Bread,100g,326 cal
+"Pastries,Breads&Rolls",Banana Nut Bread,100g,326 cal
+"Pastries,Breads&Rolls",Beer Bread,100g,227 cal
+"Pastries,Breads&Rolls",Biscuit,100g,269 cal
+"Pastries,Breads&Rolls",Black Bread,100g,250 cal
+"Pastries,Breads&Rolls",Bran Muffins,100g,270 cal
+"Pastries,Breads&Rolls",Bread Pudding,100g,153 cal
+"Pastries,Breads&Rolls",Breadsticks,100g,400 cal
+"Pastries,Breads&Rolls",Brioche,100g,346 cal
+"Pastries,Breads&Rolls",Brown Bread,100g,246 cal
+"Pastries,Breads&Rolls",Brownies,100g,405 cal
+"Pastries,Breads&Rolls",Bun,100g,316 cal
+"Pastries,Breads&Rolls",Cannoli,100g,254 cal
+"Pastries,Breads&Rolls",Caramel Cake,100g,385 cal
+"Pastries,Breads&Rolls",Challah,100g,283 cal
+"Pastries,Breads&Rolls",Chapati,100g,240 cal
+"Pastries,Breads&Rolls",Ciabatta,100g,271 cal
+"Pastries,Breads&Rolls",Cinnamon Bun,100g,436 cal
+"Pastries,Breads&Rolls",Coffee Cake,100g,418 cal
+"Pastries,Breads&Rolls",Conchas/Mexican Sweet Bread,100g,353 cal
+"Pastries,Breads&Rolls",Cornbread,100g,179 cal
+"Pastries,Breads&Rolls",Crepes,100g,224 cal
+"Pastries,Breads&Rolls",Croissant,100g,406 cal
+"Pastries,Breads&Rolls",Crumpet,100g,178 cal
+"Pastries,Breads&Rolls",Cupcakes,100g,305 cal
+"Pastries,Breads&Rolls",Donut/Doughnut,100g,421 cal
+"Pastries,Breads&Rolls",Dosa,100g,209 cal
+"Pastries,Breads&Rolls",Empanada,100g,335 cal
+"Pastries,Breads&Rolls",English Muffin,100g,227 cal
+"Pastries,Breads&Rolls",Flatbread,100g,311 cal
+"Pastries,Breads&Rolls",Focaccia,100g,249 cal
+"Pastries,Breads&Rolls",Garlic Bread,100g,350 cal
+"Pastries,Breads&Rolls",Hot Dog Buns,100g,279 cal
+"Pastries,Breads&Rolls",Italian Bread,100g,271 cal
+"Pastries,Breads&Rolls",Latkes,100g,189 cal
+"Pastries,Breads&Rolls",Matzo Bread,100g,351 cal
+"Pastries,Breads&Rolls",Monkey Bread,100g,290 cal
+"Pastries,Breads&Rolls",Muffin,100g,296 cal
+"Pastries,Breads&Rolls",Multi-Grain Bread,100g,265 cal
+"Pastries,Breads&Rolls",Naan,100g,275 cal
+"Pastries,Breads&Rolls",Oatmeal Cookies,100g,450 cal
+"Pastries,Breads&Rolls",Oatmeal Raisin Cookies,100g,435 cal
+"Pastries,Breads&Rolls",Pan de Sal,100g,293 cal
+"Pastries,Breads&Rolls",Pancake,100g,233 cal
+"Pastries,Breads&Rolls",Pandesal,100g,293 cal
+"Pastries,Breads&Rolls",Panettone,100g,318 cal
+"Pastries,Breads&Rolls",Pide,100g,268 cal
+"Pastries,Breads&Rolls",Pie,100g,237 cal
+"Pastries,Breads&Rolls",Pita Bread,100g,275 cal
+"Pastries,Breads&Rolls",Potato Bread,100g,266 cal
+"Pastries,Breads&Rolls",Pretzel,100g,338 cal
+"Pastries,Breads&Rolls",Pretzel Roll,100g,338 cal
+"Pastries,Breads&Rolls",Puff Pastry,100g,558 cal
+"Pastries,Breads&Rolls",Pumpernickel,100g,250 cal
+"Pastries,Breads&Rolls",Raisin Bread,100g,274 cal
+"Pastries,Breads&Rolls",Roll,100g,316 cal
+"Pastries,Breads&Rolls",Roti,100g,264 cal
+"Pastries,Breads&Rolls",Rye Bread,100g,259 cal
+"Pastries,Breads&Rolls",Sandwich,100g,304 cal
+"Pastries,Breads&Rolls",Sandwich Bread,100g,251 cal
+"Pastries,Breads&Rolls",Scone,100g,362 cal
+"Pastries,Breads&Rolls",Shortcrust Pastry,100g,544 cal
+"Pastries,Breads&Rolls",Soda Bread,100g,290 cal
+"Pastries,Breads&Rolls",Soufflé,100g,204 cal
+"Pastries,Breads&Rolls",Sourdough Bread,100g,289 cal
+"Pastries,Breads&Rolls",Spanakopita,100g,246 cal
+"Pastries,Breads&Rolls",Spice Cake,100g,332 cal
+"Pastries,Breads&Rolls",Sweet Rolls,100g,333 cal
+"Pastries,Breads&Rolls",Swiss Roll,100g,313 cal
+"Pastries,Breads&Rolls",Toast,100g,261 cal
+"Pastries,Breads&Rolls",Tortilla,100g,297 cal
+"Pastries,Breads&Rolls",Tortilla Bread,100g,265 cal
+"Pastries,Breads&Rolls",White Bread,100g,238 cal
+"Pastries,Breads&Rolls",Whole Wheat Bread,100g,247 cal
+Sauces&Dressings,1000 Island Dressing,100ml,370 cal
+Sauces&Dressings,Ajvar,100ml,18 cal
+Sauces&Dressings,Arrabiata Sauce,100g,36 cal
+Sauces&Dressings,Balsamic Vinaigrette Dressing,100ml,290 cal
+Sauces&Dressings,Barbecue Sauce,100g,150 cal
+Sauces&Dressings,Bechamel Sauce,100g,225 cal
+Sauces&Dressings,Bernaise Sauce,100g,414 cal
+Sauces&Dressings,Blue Cheese Dressing,100ml,533 cal
+Sauces&Dressings,Bolognese,100g,106 cal
+Sauces&Dressings,Buttermilk Ranch Dressing,100ml,533 cal
+Sauces&Dressings,Caesar Dressing,100ml,429 cal
+Sauces&Dressings,Catalina Dressing,100ml,282 cal
+Sauces&Dressings,Chasseur Sauce,100g,45 cal
+Sauces&Dressings,Chili Sauce,100g,112 cal
+Sauces&Dressings,Cream Sauce,100g,180 cal
+Sauces&Dressings,Curry Ketchup,100g,124 cal
+Sauces&Dressings,Curry Sauce,100g,26 cal
+Sauces&Dressings,French Dressing,100ml,60 cal
+Sauces&Dressings,Gravy,100g,53 cal
+Sauces&Dressings,Greek Dressing,100ml,467 cal
+Sauces&Dressings,Hamburger Sauce,100g,383 cal
+Sauces&Dressings,Harissa,100g,52 cal
+Sauces&Dressings,Hollandaise Sauce,100g,535 cal
+Sauces&Dressings,Honey Mustard Dressing,100ml,464 cal
+Sauces&Dressings,Horseradish,100g,48 cal
+Sauces&Dressings,Italian Dressing,100ml,293 cal
+Sauces&Dressings,Ketchup,100g,100 cal
+Sauces&Dressings,Mayonnaise,100g,692 cal
+Sauces&Dressings,Mustard,100g,60 cal
+Sauces&Dressings,Mustard Sauce,100g,645 cal
+Sauces&Dressings,Orange Sauce,100g,179 cal
+Sauces&Dressings,Pesto,100g,458 cal
+Sauces&Dressings,Ranch Dressing,100ml,510 cal
+Sauces&Dressings,Remoulade Sauce,100g,635 cal
+Sauces&Dressings,Russian Dressing,100ml,400 cal
+Sauces&Dressings,Salad Dressing,100ml,449 cal
+Sauces&Dressings,Sambal Oelek,100g,21 cal
+Sauces&Dressings,Sesame Ginger Dressing,100ml,464 cal
+Sauces&Dressings,Sesame Paste,100g,595 cal
+Sauces&Dressings,Sour Cream,100g,217 cal
+Sauces&Dressings,Sour Cream Sauce,100g,60 cal
+Sauces&Dressings,Soy Sauce,100ml,67 cal
+Sauces&Dressings,Sweet and Sour Sauce,100g,179 cal
+Sauces&Dressings,Tabasco,100g,70 cal
+Sauces&Dressings,Teriyaki Sauce,100g,89 cal
+Sauces&Dressings,Thai Curry Paste,100g,155 cal
+Sauces&Dressings,Tomato Paste,100g,82 cal
+Sauces&Dressings,Tomato Puree,100g,38 cal
+Sauces&Dressings,Tomato Sauce,100g,24 cal
+Sauces&Dressings,Tzatziki,100g,94 cal
+Sauces&Dressings,Vinaigrette,100ml,120 cal
+Sauces&Dressings,Worcestershire Sauce,100ml,78 cal
+Sauces&Dressings,Yogurt Dressing,100ml,45 cal
+Sauces&Dressings,Zesty Italian Dressing,100ml,267 cal
+Spreads,Almond Butter,100g,614 cal
+Spreads,Apple Butter,100g,173 cal
+Spreads,Applesauce,100g,68 cal
+Spreads,Apricot Jam,100g,250 cal
+Spreads,Blackberry Jam,100g,250 cal
+Spreads,Blackcurrant Jam,100g,250 cal
+Spreads,Blueberry Jam,100g,250 cal
+Spreads,Cheese Spread,100g,290 cal
+Spreads,Cherry Jam,100g,250 cal
+Spreads,Chocolate Philadelphia,100g,287 cal
+Spreads,Chocolate Spread,100g,541 cal
+Spreads,Cream Cheese,100g,342 cal
+Spreads,Egg,100g,97 cal
+Spreads,Grape Jelly,100g,255 cal
+Spreads,Honey,100g,304 cal
+Spreads,Jelly,100g,278 cal
+Spreads,Jif Peanut Butter,100g,580 cal
+Spreads,Liverwurst,100g,305 cal
+Spreads,Margarine,100g,717 cal
+Spreads,Marmite,100g,225 cal
+Spreads,Marshmallow Fluff,100g,666 cal
+Spreads,Nutella,100g,544 cal
+Spreads,Olive Spread,100g,550 cal
+Spreads,"Pâté (720), Pate",100g,319 cal
+Spreads,Peanut Butter,100g,589 cal
+Spreads,Peter Pan Peanut Butter,100g,609 cal
+Spreads,Philadelphia Cream Cheese,100g,342 cal
+Spreads,Plum Jam,100g,250 cal
+Spreads,Salted Butter,100g,717 cal
+Spreads,Skippy Peanut Butter,100g,594 cal
+Spreads,Smuckers Strawberry Jam,100g,250 cal
+Spreads,Strawberry Jam,100g,250 cal
+Spreads,Strawberry Jelly,100g,250 cal
+Spreads,Sunbutter,100g,617 cal
+Spreads,Sunflower Butter,100g,617 cal
+Spreads,Tapenade,100g,233 cal
+Spreads,Unsalted Butter,100g,717 cal
+Spreads,Vegemite,100g,180 cal
+Spreads,Wild Honey,100g,286 cal

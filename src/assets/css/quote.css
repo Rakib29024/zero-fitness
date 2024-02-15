@@ -1,0 +1,21 @@
+/* Example CSS styles for the quote card */
+.quote-card {
+  border-left: 5px solid #007bff; /* Adjust the color as needed */
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.quote-header {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.quote-text {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.quote-author {
+  font-style: italic;
+}
