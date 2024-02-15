@@ -21,7 +21,9 @@ const Dashboard = () => {
   const [syncing, setSyncing] = useState(false);
   const [fitnessData, setFitnessData] = useState([]);
   const [isRedirectedToHome, setIsRedirectedToHome] = useState(false);
-console.log(process.env.REACT_APP_URL)
+  const googleFitMsURL = process.env.REACT_APP_GOOGLE_FIT_MICROSERVICE_URL;
+  
+  
   useEffect(() => {
     let allLocalKeys = Object.keys(localStorage);
     if(allLocalKeys.includes('fitCode'))
@@ -62,7 +64,7 @@ console.log(process.env.REACT_APP_URL)
       {
         const fitCode = localStorage.getItem('fitCode');
         if (fitCode === null || fitCode === '' || fitCode === undefined) {
-          const response = await fetch('https://api-fit-app.netlify.app/api/googleFit');
+          const response = await fetch(googleFitMsURL);
           const data = await response.json();
           window.location.href = data.authUrl;
         }else{
@@ -70,7 +72,7 @@ console.log(process.env.REACT_APP_URL)
         }
       }
       else{
-        const response = await fetch('https://api-fit-app.netlify.app/api/googleFit');
+        const response = await fetch(googleFitMsURL);
         const data = await response.json();
         window.location.href = data.authUrl;
       }
@@ -84,7 +86,7 @@ console.log(process.env.REACT_APP_URL)
 
   const handleAuthorizationCode = async (code) => {
     try {
-      const response = await fetch(`https://api-fit-app.netlify.app/api/googleFit/callback?code=${code}`);
+      const response = await fetch(googleFitMsURL+`/callback?code=${code}`);
       const data = await response.json();
       if (data.isRedirectedToHome) {
         setFitnessData(data.data);

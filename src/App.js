@@ -1,6 +1,6 @@
 import React, { useState, useEffect, Component, Suspense } from 'react'
 // import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { HashRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom'
 import { ThemeSupa } from "@supabase/auth-ui-shared";
 import './scss/style.scss'
 
@@ -56,7 +56,7 @@ export default function App() {
     }, [])
 
     return (
-      <HashRouter>
+      <BrowserRouter>
       {
         user ? (
           <Suspense fallback={loading}>
@@ -85,7 +85,7 @@ export default function App() {
         )
       }
         
-      </HashRouter>
+      </BrowserRouter>
     );
 }
 
