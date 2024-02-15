@@ -4,9 +4,19 @@ import './chart.css'
 const HeightPieChart = ({data, height = 0}) => {
     const initialHeight = height;
     let averageHeight = height;
-    const totalHeight = data.map(item => item.height).reduce((acc, currentValue) => acc + currentValue, 0);
+
+    const { totalHeight, nonZeroHeightsCount, latestHeight } = data.reduce((acc, data) => {
+        const height = data.height;
+        if (height !== 0) {
+            acc.latestHeight=height;
+            acc.totalHeight += height;
+            acc.nonZeroHeightsCount++;
+        }
+        return acc;
+      }, { totalHeight: 0, nonZeroHeightsCount: 0, latestHeight: height });
+
     if(totalHeight){
-        averageHeight = totalHeight/data.length;
+        averageHeight = totalHeight/nonZeroHeightsCount;
     }
 
     return (
@@ -15,11 +25,11 @@ const HeightPieChart = ({data, height = 0}) => {
             <CChart
                 type="doughnut"
                 data={{
-                    labels: ['Average', 'Initial'],
+                    labels: ['Average', 'Initial', 'Most Recent'],
                     datasets: [
                     {
-                        backgroundColor: ['#FF4500','#157DEC'],
-                        data: [averageHeight, initialHeight],
+                        backgroundColor: ['#FF4500','#157DEC','#0000FF'],
+                        data: [averageHeight, initialHeight, latestHeight],
                     },
                     ],
                 }}

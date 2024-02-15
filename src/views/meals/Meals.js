@@ -27,8 +27,11 @@ const Meals = () => {
 
 
   useEffect(() => {
+    fetchFoods();
     fetchMeals()
-  }, [])
+    // fetchMealFoods();
+
+  }, [meals])
 
   const fetchFoods = async () => {
     try {
@@ -44,14 +47,13 @@ const Meals = () => {
       if (error) {
         throw error
       }
-      return data;
-      // setFoods(data || [])
+      setFoods(data || [])
     } catch (error) {
       console.error('Error fetching Foods:', error.message)
     }
   }
 
-  const fetchFoodsForMeal = async (mealId) => {
+  const fetchMealFoods = async (meals) => {
     try {
       const {
         data: { user },
@@ -61,12 +63,38 @@ const Meals = () => {
         .select('*')
         .order('created_at', { ascending: false })
         .eq('user_id', user.id)
-        .eq('meal_id', mealId)
+        const modifiedMeals = [...meals];
+      
+
+      for(let i = 0; i < modifiedMeals.length; i++)
+      {
+        const foodIds = [];
+
+        for(let j = 0; j < data.length; j++){
+          if(data[j].meal_id == modifiedMeals[i].id)
+          {
+            foodIds.push(data[j].food_id);
+          }
+        }
+        
+        const foodNames = [];
+
+        for(let j = 0; j < foodIds.length; j++)
+        {
+          for(let k = 0; k < foods.length; k++){
+            if(Number.parseInt(foods[k].id)  == Number.parseInt(foodIds[j])){
+              foodNames.push(foods[k].name);
+            }
+          }
+        }
+        
+        modifiedMeals[i]['foodNames'] = foodNames;
+      }
 
       if (error) {
         throw error
       }
-      return data
+      return modifiedMeals;
     } catch (error) {
       console.error('Error fetching all foods for meal:', error.message)
     }
@@ -81,58 +109,21 @@ const Meals = () => {
       const { data, error } = await supabase
         .from('meals')
         .select(`'*'`)
+        .eq('user_id', user.id)
         .order('created_at', { ascending: false })
      
-      
-      console.log(data);
       if (error) {
         throw error
       }
+      if(data.length > 0)
+      {
+        let result = await fetchMealFoods(data);
+        setMeals(result || [])
+      }else{
+        setMeals(data || [])
 
-      const mealFoods = {};
-
-      for (let i = 0; i < data.length; i++) {
-        const response = await fetchFoodsForMeal(data[i].id);
-        
-        for (let j = 0; j < response.length; j++) {
-          let meal_id = response[j].meal_id;
-
-          if (mealFoods[meal_id] != undefined) {
-            mealFoods[meal_id].push(response[j].food_id);
-          } else {
-            mealFoods[meal_id] = [];
-            mealFoods[meal_id].push(response[j].food_id);
-          }
-        }
       }
-      const foods = await fetchFoods();
       
-     
-      let finalData = [];
-      data.forEach(element => {
-        const selectedFoodList = [];
-
-        let foodIds = mealFoods[element.id];
-        if(foodIds == undefined) {
-          foodIds = [];
-        }
-       
-        for(let i = 0; i < foodIds.length; i++)
-        {
-          foods.forEach(food => {
-            if(food.id == foodIds[i])
-            {
-              selectedFoodList.push(food.name);
-            }
-          });
-        }
-
-        element.foodList = selectedFoodList;
-        
-      })
-     
-      // Set Meals data in state
-      setMeals(data || [])
     } catch (error) {
       console.error('Error fetching Meals:', error.message)
     }
@@ -171,10 +162,12 @@ const Meals = () => {
                   </CTableRow>
                 </CTableHead>
                 <CTableBody>
+                  {console.log(meals)}
                   {meals.map((meal) => (
                     <CTableRow key={meal.id}>
+                     
                       <CTableDataCell>{meal.title}</CTableDataCell>
-                      <CTableDataCell>{meal.foodList.join(', ')}</CTableDataCell>
+                      <CTableDataCell>{meal.foodNames ? meal.foodNames.join(", ") : ""}</CTableDataCell>
                       <CTableDataCell>{meal.total_calories}</CTableDataCell>
 
                       <CTableDataCell>{meal.created_at}</CTableDataCell>

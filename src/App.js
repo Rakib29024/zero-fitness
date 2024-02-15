@@ -22,11 +22,6 @@ export default function App() {
     const [user, setUser] = useState(null);
 
     useEffect(()=> {
-      const authorizationCode = new URLSearchParams(window.location.search).get('code');
-      if (authorizationCode) {
-        handleAuthorizationCode(authorizationCode);
-      }
-
       const session = supabase.auth.getSession();
       setUser(session?.user);
 
@@ -34,8 +29,6 @@ export default function App() {
         (event, session) => {
           switch(event){
             case "SIGNED_IN":
-              console.log("12344")
-              console.log(session);
               setUser(session?.user);
               localStorage.setItem('supabaseSession', JSON.stringify(session));
               break;
@@ -43,6 +36,7 @@ export default function App() {
             case "SIGNED_OUT":
               setUser(null);
               localStorage.removeItem('supabaseSession');
+              localStorage.removeItem('fitCode');
               break;
             
             default:
@@ -60,15 +54,6 @@ export default function App() {
       }
       
     }, [])
-
-    const handleAuthorizationCode = async (code) => {
-      try {
-        const encodedCode = encodeURIComponent(code);
-        window.location.href = `https://zero-fitness01.netlify.app/%23/dashboard?code=${encodedCode}`;
-      } catch (error) {
-        console.error('Redirect failed:', error);
-      }
-    };
 
     return (
       <HashRouter>

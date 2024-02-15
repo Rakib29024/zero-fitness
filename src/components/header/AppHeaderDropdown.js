@@ -15,6 +15,7 @@ const AppHeaderDropdown = () => {
   const logout = async () => {
       setUser(null);
       localStorage.removeItem('supabaseSession');
+      localStorage.removeItem('fitCode');
       await supabase.auth.signOut();
   };
 

@@ -23,13 +23,15 @@ const Dashboard = () => {
   const [isRedirectedToHome, setIsRedirectedToHome] = useState(false);
 
   useEffect(() => {
-    // const isSync = localStorage.getItem('isSync');
-      const authorizationCode = new URLSearchParams(window.location.search).get('code');
-      if (authorizationCode) {
-        handleAuthorizationCode(authorizationCode);
-      }else{
-        fetchFitApiData()
+    let allLocalKeys = Object.keys(localStorage);
+    if(allLocalKeys.includes('fitCode'))
+    {
+      const fitCode = localStorage.getItem('fitCode');
+      if (fitCode !== null) {
+        handleAuthorizationCode(fitCode);
       }
+    }
+    
     
     getQuote()
     fetchProfile()
@@ -54,10 +56,25 @@ const Dashboard = () => {
   const fetchFitApiData = async () => {
     setSyncing(false);
     try {
-      const response = await fetch('https://api-fit-app.netlify.app/api/googleFit');
-      const data = await response.json();
-
-      window.location.href = data.authUrl;
+      let allLocalKeys = Object.keys(localStorage);
+      console.log(allLocalKeys)
+      if(allLocalKeys.includes('fitCode'))
+      {
+        const fitCode = localStorage.getItem('fitCode');
+        if (fitCode === null || fitCode === '' || fitCode === undefined) {
+          const response = await fetch('https://api-fit-app.netlify.app/api/googleFit');
+          const data = await response.json();
+          window.location.href = data.authUrl;
+        }else{
+          handleAuthorizationCode(fitCode);
+        }
+      }
+      else{
+        const response = await fetch('https://api-fit-app.netlify.app/api/googleFit');
+        const data = await response.json();
+        window.location.href = data.authUrl;
+      }
+      
     } catch (error) {
       console.error('Error syncing Fit Data:', error);
     } finally {
@@ -71,6 +88,7 @@ const Dashboard = () => {
       const data = await response.json();
       if (data.isRedirectedToHome) {
         setFitnessData(data.data);
+        localStorage.removeItem('fitCode');
         const urlWithoutCode = window.location.origin + window.location.pathname;
         window.history.replaceState({}, document.title, urlWithoutCode);
       }
@@ -85,11 +103,9 @@ const Dashboard = () => {
         data: { user },
       } = await supabase.auth.getUser()
       const { data, error } = await supabase.from('profiles').select('*').eq('id', user.id).single()
-
       if (error) {
         throw error
       }
-
       setProfile(data || [])
     } catch (error) {
       console.error('Error fetching profile:', error.message)
@@ -107,10 +123,18 @@ const Dashboard = () => {
           <CCardText className="quote-author">{quote['author']}</CCardText>
         </CCardBody>
       </CCard>
+      <div class="d-flex justify-content-center align-items-center button-container mb-4">
+        {!syncing 
+        ? 
+          <button class="btn btn-primary btn-lg text-white" onClick={fetchFitApiData}>Sync With Your Fit</button> 
+        : 
+          <button class="btn btn-success btn-lg text-white">Syncing...</button> }
+      </div>
+
       {/* <WidgetsDropdown /> */}
-      {quote ?
+      {/* {quote ? */}
       <DailyQuoteNotification></DailyQuoteNotification>
-      :null}
+      {/* // :null} */}
       <CRow>
         <CCol>
             {fitnessData ?
@@ -163,7 +187,7 @@ const Dashboard = () => {
                       <CTableDataCell>{data.height_in_cms}</CTableDataCell>
                       <CTableDataCell>{data.heart_rate}</CTableDataCell>
                     </CTableRow>
-                  )) : null
+                  )) : "No fit data found!"
                   }
                 </CTableBody>
               </CTable>

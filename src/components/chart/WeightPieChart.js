@@ -4,9 +4,19 @@ import './chart.css'
 const WeightPieChart = ({data, weight = 0}) => {
     const initialWeight = weight;
     let averageWeight = weight;
-    const totalWeight = data.map(item => item.weight).reduce((acc, currentValue) => acc + currentValue, 0);
+
+    const { totalWeight, nonZeroWeightsCount, latestWeight } = data.reduce((acc, data) => {
+        const weight = data.weight;
+        if (weight !== 0) {
+            acc.latestWeight=weight;
+            acc.totalWeight += weight;
+            acc.nonZeroWeightsCount++;
+        }
+        return acc;
+      }, { totalWeight: 0, nonZeroWeightsCount: 0, latestWeight: weight });
+
     if(totalWeight){
-        averageWeight = totalWeight/data.length;
+        averageWeight = totalWeight/nonZeroWeightsCount;
     }
 
     return (
@@ -15,11 +25,11 @@ const WeightPieChart = ({data, weight = 0}) => {
             <CChart
                 type="doughnut"
                 data={{
-                    labels: ['Average','Initial'],
+                    labels: ['Average','Initial','Most Recent'],
                     datasets: [
                     {
-                        backgroundColor: ['#0000FF','#00D8FF'],
-                        data: [averageWeight, initialWeight],
+                        backgroundColor: ['#0000FF','#00D8FF','#157DEC'],
+                        data: [averageWeight, initialWeight,latestWeight],
                     },
                     ],
                 }}

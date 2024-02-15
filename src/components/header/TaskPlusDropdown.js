@@ -139,7 +139,8 @@ const TaskPlusDropdown = () => {
         return;
       }
       setIsTimerUsed(3);
-
+      reset();
+      pause();
       const title = inputActivityTitle.current.value;
       const activity_id = inputActivityId.current.value;
       // const activity_amount = inputActivityAmount.current.value;
@@ -452,22 +453,17 @@ return (
               <div style={{fontSize: '100px'}}>
                 <span>{days}</span>:<span>{hours}</span>:<span>{minutes}</span>:<span>{seconds}</span>
               </div>
-              <p>{isRunning ? 'Running' : 'Not running'}</p>
-              <button className='btn btn-primary mx-2' onClick={start}>Start</button>
+              {isRunning ?
+              
               <button className='btn btn-secondary mx-2' onClick={pause}>Pause</button>
-              <button className='btn btn-danger mx-2' onClick={() => {
-                reset();
-                pause();
-              }}>Reset</button>
+              :<><button className='btn btn-primary mx-2' onClick={start}>Start</button>
+              {totalSeconds >= 10 ? <CButton color="success"  type="submit" >Done</CButton> : ""}</>
+              }
+
+
             </div>
           </div>
-          {isTimerUsed == 2 || isTimerUsed != 0 && <div className='text-danger'>*You didn't run timer or time is less than 60 seconds</div>}
-          <CModalFooter>
-            <CButton color="secondary" onClick={() => setVisibleAcivity(false)}>
-              Close
-            </CButton>
-            <CButton color="primary" type="submit" >Add Activity</CButton>
-          </CModalFooter>
+          {/* {isTimerUsed == 2 || isTimerUsed != 0 && <div className='text-danger'>*You didn't run timer or time is less than 60 seconds</div>} */}
         </form>
       </CModalBody>
 
