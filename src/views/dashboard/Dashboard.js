@@ -21,7 +21,7 @@ const Dashboard = () => {
   const [syncing, setSyncing] = useState(false);
   const [fitnessData, setFitnessData] = useState([]);
   const [isRedirectedToHome, setIsRedirectedToHome] = useState(false);
-
+console.log(process.env.REACT_APP_URL)
   useEffect(() => {
     let allLocalKeys = Object.keys(localStorage);
     if(allLocalKeys.includes('fitCode'))
