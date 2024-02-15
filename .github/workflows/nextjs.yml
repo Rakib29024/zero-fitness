@@ -1,8 +1,3 @@
-# Sample workflow for building and deploying a React app to GitHub Pages
-#
-# Ensure you have a React app set up in your repository
-# To get started with React see: https://reactjs.org/docs/create-a-new-react-app.html
-
 name: Deploy React app to Git Page
 
 on:
